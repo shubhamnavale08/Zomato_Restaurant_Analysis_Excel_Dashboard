@@ -18,3 +18,6 @@ Delving into cuisine diversity, Asia takes the top spot again, offering an astou
 
 ## Excel Dashboard
 <img width="762" alt="Screenshot 2024-11-12 212207" src="https://github.com/user-attachments/assets/059cc7a1-6ca2-4827-a39a-e5bc5d95d1ab">
+
+### Conclusion :
+This Project is helpful in analyzing the sales market of Zomato. From this Project I would like to conclude that as Zomato is an Indian Company that's why is market is broader in India than in other countries as it is linked with only 15 countries and out of that 15 countries, It has greatly expanded its routes in India therefore all the top items from different categories are from India only. In India it has main markets in Bangalore, Mumbai and Delhi. Currently the services of Zomato is also limited which creates a breaker in its expansion. If the company will focus upon their advance services then they may be able to expand their branch and market worldwide. The main motive of this project is to gain knowledge about Zomato Company and its worldwide connections and to learn new features of excel.
