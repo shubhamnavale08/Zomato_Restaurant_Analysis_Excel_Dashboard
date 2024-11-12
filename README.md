@@ -15,3 +15,6 @@ While Asia leads in restaurant numbers, its average rating of 2.5 places it at t
 
  + **Cuisine Count Insights**:
 Delving into cuisine diversity, Asia takes the top spot again, offering an astounding 112 different cuisines. Zooming in on individual countries, India emerges as the leader with a rich assortment of 90 cuisines. However, the same exploration reveals that the South American continent, abbreviated as "SAM," lags in the global cuisine count.
+
+## Excel Dashboard
+<img width="762" alt="Screenshot 2024-11-12 212207" src="https://github.com/user-attachments/assets/059cc7a1-6ca2-4827-a39a-e5bc5d95d1ab">
