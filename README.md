@@ -20,13 +20,16 @@ This dataset provides comprehensive information on Zomato Restaurants across 15 
 
 
 ### 📌Key Insights from the Dashboard
-
-  + Average Cost of Two Person : Across all countries is $10.10.
-  + Top Cuisines by Votes: North Indian and Mughlai.
-  + Affordable Options: Out of 9551 restaurants, 7273 have an average cost for two persons of $10 or less.
-  + Table Booking Facilities: Only 8.63% of the 9551 restaurants offer table booking.
-  + Online Delivery Facilities: Only 22.05% of the 9551 restaurants provide online delivery.
-  + Year with Maximum Openings: The year 2018 witnessed the highest number of restaurant openings, totaling 1102
+  + **Primary KPIs**:Total restaurants 9551 ,Total country 15, Total Votes 1.5M ,Total USD Amount $96K,total City 142 and Average Rating 2.89.
+  + **Restaurant by Month**:Most restaurants are open in the months of March and September Total reastaurant 838.
+  + **Restaurant by Contry**:India has the highest number of restaurant openings 8652.
+  + **Restaurant by Year**: 2018 has the highest number of restaurant openings 1102.
+  + **Online Delivary**:25.66% are delivered online.
+  + **Table Booking**:12.12% are table booking.
+  + **Restaurant by Weekday**:Most restaurants are open in the Friday 1378.
+  + **Restaurant Average Rating**:The highest restaurant rating ranges from 3.1 to 4  total rating restaurant 4388.
+  + **Top 5 cuisine by Restaurant**:North Indian cuisines have the highest number of restaurant openings 936.
+  + **Top 5 City by Restaurant**:New Delhi and Gurgaon have the highest number of restaurant openings 5473,1118.
 
 ## 📊Excel Dashboard
 <img width="762" alt="Screenshot 2024-11-12 212207" src="https://github.com/user-attachments/assets/059cc7a1-6ca2-4827-a39a-e5bc5d95d1ab">
