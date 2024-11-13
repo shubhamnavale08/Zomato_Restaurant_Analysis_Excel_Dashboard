@@ -835,41 +835,41 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 7681,orea estaurant,1,New Delhi,77.2088089,28.7012872,Korean,Indian Rupees(Rs.),Yes,No,No,No,2,82,900,3,2.1-3,2010-11-15,0.012,India,2010,11,Nov,Q4,1,Monday,8,3,10.8,899.1
 312345,he udson afe,1,New Delhi,77.2043172,28.6949468,"Cafe, Italian, Continental, Chinese",Indian Rupees(Rs.),No,Yes,No,No,2,1537,850,4,4.1-5,2011-11-02,0.012,India,2011,11,Nov,Q4,3,Wednesday,8,3,10.2,849.15
 18255631,ier 70,14,Paynesville,147.7227832,-37.9194154,Modern Australian,Dollar($),No,No,No,No,4,16,120,3,2.1-3,2013-04-04,1,Australia,2013,4,Apr,Q2,4,Thursday,1,1,120,9990
-6702797,iquitaia,30,SÌ£o Paulo,-46.657523,-23.55671,Brazilian,Brazilian Real(R$),No,No,No,No,4,15,100,4,4.1-5,2013-09-19,0.2,Brazil,2013,9,Sep,Q3,4,Thursday,6,2,20,1665
+6702797,iquitaia,30,S√≠¬£o Paulo,-46.657523,-23.55671,Brazilian,Brazilian Real(R$),No,No,No,No,4,15,100,4,4.1-5,2013-09-19,0.2,Brazil,2013,9,Sep,Q3,4,Thursday,6,2,20,1665
 7300955,Braseiro da vea,30,Rio de Janeiro,-43.227042,-22.973507,"Brazilian, Bar Food",Brazilian Real(R$),No,No,No,No,4,40,100,5,4.1-5,2011-08-04,0.2,Brazil,2011,8,Aug,Q3,4,Thursday,5,2,20,1665
 7304307,onfeitaria olombo,30,Rio de Janeiro,-43.178826,-22.905293,"Desserts, Cafe",Brazilian Real(R$),No,No,No,No,4,29,100,5,4.1-5,2011-07-28,0.2,Brazil,2011,7,Jul,Q3,4,Thursday,4,2,20,1665
-6601515,overeto,30,BrasÌ_lia,-48.019,-15.83716667,Pizza,Brazilian Real(R$),No,No,No,No,4,9,100,3,3.1-4,2015-05-06,0.2,Brazil,2015,5,May,Q2,3,Wednesday,2,1,20,1665
-6709580,squina ocot,30,SÌ£o Paulo,-46.581672,-23.486535,"Brazilian, North Eastern",Brazilian Real(R$),No,No,No,No,4,22,100,4,4.1-5,2017-05-10,0.2,Brazil,2017,5,May,Q2,3,Wednesday,2,1,20,1665
-6601862,ayp,30,BrasÌ_lia,-47.872359,-15.860621,"Peruvian, Latin American",Brazilian Real(R$),No,No,No,No,4,5,100,4,3.1-4,2014-02-25,0.2,Brazil,2014,2,Feb,Q1,2,Tuesday,11,4,20,1665
-6601602,aco ep,30,BrasÌ_lia,-48.01666667,-15.83483333,"Mexican, Grill",Brazilian Real(R$),No,No,No,No,4,29,100,4,4.1-5,2012-01-16,0.2,Brazil,2012,1,Jan,Q1,1,Monday,10,4,20,1665
+6601515,overeto,30,Bras√≠_lia,-48.019,-15.83716667,Pizza,Brazilian Real(R$),No,No,No,No,4,9,100,3,3.1-4,2015-05-06,0.2,Brazil,2015,5,May,Q2,3,Wednesday,2,1,20,1665
+6709580,squina ocot,30,S√≠¬£o Paulo,-46.581672,-23.486535,"Brazilian, North Eastern",Brazilian Real(R$),No,No,No,No,4,22,100,4,4.1-5,2017-05-10,0.2,Brazil,2017,5,May,Q2,3,Wednesday,2,1,20,1665
+6601862,ayp,30,Bras√≠_lia,-47.872359,-15.860621,"Peruvian, Latin American",Brazilian Real(R$),No,No,No,No,4,5,100,4,3.1-4,2014-02-25,0.2,Brazil,2014,2,Feb,Q1,2,Tuesday,11,4,20,1665
+6601602,aco ep,30,Bras√≠_lia,-48.01666667,-15.83483333,"Mexican, Grill",Brazilian Real(R$),No,No,No,No,4,29,100,4,4.1-5,2012-01-16,0.2,Brazil,2012,1,Jan,Q1,1,Monday,10,4,20,1665
 7300868,alho apixaba,30,Rio de Janeiro,-43.22566667,-22.98516667,"Bakery, Sandwich, Brazilian",Brazilian Real(R$),No,No,No,No,4,13,120,4,4.1-5,2011-08-15,0.2,Brazil,2011,8,Aug,Q3,1,Monday,5,2,24,1998
-6700846,awa ushi,30,SÌ£o Paulo,-46.657418,-23.571638,"Sushi, Japanese",Brazilian Real(R$),No,No,No,No,4,9,120,4,3.1-4,2011-07-11,0.2,Brazil,2011,7,Jul,Q3,1,Monday,4,2,24,1998
-6701257,eats,30,SÌ£o Paulo,-46.68133333,-23.56483333,"Gourmet Fast Food, Burger",Brazilian Real(R$),No,No,No,No,4,68,120,4,4.1-5,2015-05-23,0.2,Brazil,2015,5,May,Q2,6,Saturday,2,1,24,1998
+6700846,awa ushi,30,S√≠¬£o Paulo,-46.657418,-23.571638,"Sushi, Japanese",Brazilian Real(R$),No,No,No,No,4,9,120,4,3.1-4,2011-07-11,0.2,Brazil,2011,7,Jul,Q3,1,Monday,4,2,24,1998
+6701257,eats,30,S√≠¬£o Paulo,-46.68133333,-23.56483333,"Gourmet Fast Food, Burger",Brazilian Real(R$),No,No,No,No,4,68,120,4,4.1-5,2015-05-23,0.2,Brazil,2015,5,May,Q2,6,Saturday,2,1,24,1998
 7300515,arota de panema,30,Rio de Janeiro,-43.203,-22.98533333,"Brazilian, Bar Food",Brazilian Real(R$),No,No,No,No,4,49,120,5,4.1-5,2014-11-28,0.2,Brazil,2014,11,Nov,Q4,5,Friday,8,3,24,1998
-6713413,es 3 Brasseurs,30,SÌ£o Paulo,-46.67511,-23.582135,"French, Brazilian, Beverages",Brazilian Real(R$),No,No,No,No,4,30,120,5,4.1-5,2014-11-23,0.2,Brazil,2014,11,Nov,Q4,7,Sunday,8,3,24,1998
-6713772,ainte arie astronomia,30,SÌ£o Paulo,-46.746958,-23.609207,"Lebanese, Arabian",Brazilian Real(R$),No,No,No,No,4,11,120,4,4.1-5,2011-10-19,0.2,Brazil,2011,10,Oct,Q4,3,Wednesday,7,3,24,1998
+6713413,es 3 Brasseurs,30,S√≠¬£o Paulo,-46.67511,-23.582135,"French, Brazilian, Beverages",Brazilian Real(R$),No,No,No,No,4,30,120,5,4.1-5,2014-11-23,0.2,Brazil,2014,11,Nov,Q4,7,Sunday,8,3,24,1998
+6713772,ainte arie astronomia,30,S√≠¬£o Paulo,-46.746958,-23.609207,"Lebanese, Arabian",Brazilian Real(R$),No,No,No,No,4,11,120,4,4.1-5,2011-10-19,0.2,Brazil,2011,10,Oct,Q4,3,Wednesday,7,3,24,1998
 7303219,esqueiro co ourmet,30,Rio de Janeiro,-43.377,-23.0115,"Seafood, Bar Food, Brazilian",Brazilian Real(R$),No,No,No,No,4,7,140,4,3.1-4,2014-01-08,0.2,Brazil,2014,1,Jan,Q1,3,Wednesday,10,4,28,2331
-6706211,aribar,30,SÌ£o Paulo,-46.64159444,-23.54664167,"Brazilian, Italian",Brazilian Real(R$),No,No,No,No,4,46,150,4,4.1-5,2017-09-27,0.2,Brazil,2017,9,Sep,Q3,3,Wednesday,6,2,30,2497.5
+6706211,aribar,30,S√≠¬£o Paulo,-46.64159444,-23.54664167,"Brazilian, Italian",Brazilian Real(R$),No,No,No,No,4,46,150,4,4.1-5,2017-09-27,0.2,Brazil,2017,9,Sep,Q3,3,Wednesday,6,2,30,2497.5
 7304312, istorante,30,Rio de Janeiro,-43.34879167,-22.99991111,Italian,Brazilian Real(R$),No,No,No,No,4,5,150,4,3.1-4,2011-05-08,0.2,Brazil,2011,5,May,Q2,7,Sunday,2,1,30,2497.5
-6601595,utback teakhouse,30,BrasÌ_lia,-47.95628333,-15.83451389,"American, Grill",Brazilian Real(R$),No,No,No,No,4,10,150,4,3.1-4,2013-04-22,0.2,Brazil,2013,4,Apr,Q2,1,Monday,1,1,30,2497.5
-6600083,illa evere,30,BrasÌ_lia,-47.92366667,-15.83133333,Italian,Brazilian Real(R$),No,No,No,No,4,12,150,4,4.1-5,2016-10-06,0.2,Brazil,2016,10,Oct,Q4,4,Thursday,7,3,30,2497.5
+6601595,utback teakhouse,30,Bras√≠_lia,-47.95628333,-15.83451389,"American, Grill",Brazilian Real(R$),No,No,No,No,4,10,150,4,3.1-4,2013-04-22,0.2,Brazil,2013,4,Apr,Q2,1,Monday,1,1,30,2497.5
+6600083,illa evere,30,Bras√≠_lia,-47.92366667,-15.83133333,Italian,Brazilian Real(R$),No,No,No,No,4,12,150,4,4.1-5,2016-10-06,0.2,Brazil,2016,10,Oct,Q4,4,Thursday,7,3,30,2497.5
 7300483,az Bistr ropical,30,Rio de Janeiro,-43.20520833,-22.98531944,Brazilian,Brazilian Real(R$),No,No,No,No,4,21,170,5,4.1-5,2010-05-09,0.2,Brazil,2010,5,May,Q2,7,Sunday,2,1,34,2830.5
 7300612,Amir,30,Rio de Janeiro,-43.176,-22.96516667,Lebanese,Brazilian Real(R$),No,No,No,No,4,11,170,4,4.1-5,2015-04-02,0.2,Brazil,2015,4,Apr,Q2,4,Thursday,1,1,34,2830.5
-6601218,ew oto,30,BrasÌ_lia,-47.91016667,-15.82733333,Japanese,Brazilian Real(R$),No,No,No,No,4,5,200,4,3.1-4,2014-02-28,0.2,Brazil,2014,2,Feb,Q1,5,Friday,11,4,40,3330
-6700402,aris 6 lassique,30,SÌ£o Paulo,-46.666041,-23.561568,French,Brazilian Real(R$),No,No,No,No,4,73,200,3,3.1-4,2011-11-23,0.2,Brazil,2011,11,Nov,Q4,3,Wednesday,8,3,40,3330
-6600427,oco Bambu,30,BrasÌ_lia,-47.8685,-15.819,International,Brazilian Real(R$),No,No,No,No,4,30,230,5,4.1-5,2017-05-07,0.2,Brazil,2017,5,May,Q2,7,Sunday,2,1,46,3829.5
-6601589,oco Bambu,30,BrasÌ_lia,-47.889,-15.7865,International,Brazilian Real(R$),No,No,No,No,4,17,230,4,4.1-5,2015-03-23,0.2,Brazil,2015,3,Mar,Q1,1,Monday,12,4,46,3829.5
-6711666,inoshita,30,SÌ£o Paulo,-46.67133333,-23.59233333,Sushi,Brazilian Real(R$),No,No,No,No,4,12,230,4,3.1-4,2014-02-24,0.2,Brazil,2014,2,Feb,Q1,1,Monday,11,4,46,3829.5
-6601158,anzu,30,BrasÌ_lia,-47.87283333,-15.82566667,Seafood,Brazilian Real(R$),No,No,No,No,4,6,240,3,3.1-4,2011-10-20,0.2,Brazil,2011,10,Oct,Q4,4,Thursday,7,3,48,3996
+6601218,ew oto,30,Bras√≠_lia,-47.91016667,-15.82733333,Japanese,Brazilian Real(R$),No,No,No,No,4,5,200,4,3.1-4,2014-02-28,0.2,Brazil,2014,2,Feb,Q1,5,Friday,11,4,40,3330
+6700402,aris 6 lassique,30,S√≠¬£o Paulo,-46.666041,-23.561568,French,Brazilian Real(R$),No,No,No,No,4,73,200,3,3.1-4,2011-11-23,0.2,Brazil,2011,11,Nov,Q4,3,Wednesday,8,3,40,3330
+6600427,oco Bambu,30,Bras√≠_lia,-47.8685,-15.819,International,Brazilian Real(R$),No,No,No,No,4,30,230,5,4.1-5,2017-05-07,0.2,Brazil,2017,5,May,Q2,7,Sunday,2,1,46,3829.5
+6601589,oco Bambu,30,Bras√≠_lia,-47.889,-15.7865,International,Brazilian Real(R$),No,No,No,No,4,17,230,4,4.1-5,2015-03-23,0.2,Brazil,2015,3,Mar,Q1,1,Monday,12,4,46,3829.5
+6711666,inoshita,30,S√≠¬£o Paulo,-46.67133333,-23.59233333,Sushi,Brazilian Real(R$),No,No,No,No,4,12,230,4,3.1-4,2014-02-24,0.2,Brazil,2014,2,Feb,Q1,1,Monday,11,4,46,3829.5
+6601158,anzu,30,Bras√≠_lia,-47.87283333,-15.82566667,Seafood,Brazilian Real(R$),No,No,No,No,4,6,240,3,3.1-4,2011-10-20,0.2,Brazil,2011,10,Oct,Q4,4,Thursday,7,3,48,3996
 7300004,ushi eblon,30,Rio de Janeiro,-43.227,-22.98416667,Japanese,Brazilian Real(R$),No,No,No,No,4,25,250,5,4.1-5,2014-06-02,0.2,Brazil,2014,6,Jun,Q2,1,Monday,3,1,50,4162.5
 7302140,hirley,30,Rio de Janeiro,-43.17126389,-22.96337222,"Brazilian, Seafood",Brazilian Real(R$),No,No,No,No,4,8,250,4,4.1-5,2014-06-15,0.2,Brazil,2014,6,Jun,Q2,7,Sunday,3,1,50,4162.5
-6706313,antina amiglia ancini,30,SÌ£o Paulo,-46.64516667,-23.55066667,"Italian, Pizza",Brazilian Real(R$),No,No,No,No,4,49,250,4,4.1-5,2014-03-04,0.2,Brazil,2014,3,Mar,Q1,2,Tuesday,12,4,50,4162.5
-6704326,emplo da arne  arcos Bassi,30,SÌ£o Paulo,-46.64633333,-23.559,"Steak, BBQ",Brazilian Real(R$),No,No,No,No,4,17,250,4,4.1-5,2015-02-06,0.2,Brazil,2015,2,Feb,Q1,5,Friday,11,4,50,4162.5
-6700475,kye  otel nique,30,SÌ£o Paulo,-46.666851,-23.581688,"Beverages, International",Brazilian Real(R$),No,No,No,No,4,59,300,5,4.1-5,2014-07-04,0.2,Brazil,2014,7,Jul,Q3,5,Friday,4,2,60,4995
+6706313,antina amiglia ancini,30,S√≠¬£o Paulo,-46.64516667,-23.55066667,"Italian, Pizza",Brazilian Real(R$),No,No,No,No,4,49,250,4,4.1-5,2014-03-04,0.2,Brazil,2014,3,Mar,Q1,2,Tuesday,12,4,50,4162.5
+6704326,emplo da arne  arcos Bassi,30,S√≠¬£o Paulo,-46.64633333,-23.559,"Steak, BBQ",Brazilian Real(R$),No,No,No,No,4,17,250,4,4.1-5,2015-02-06,0.2,Brazil,2015,2,Feb,Q1,5,Friday,11,4,50,4162.5
+6700475,kye  otel nique,30,S√≠¬£o Paulo,-46.666851,-23.581688,"Beverages, International",Brazilian Real(R$),No,No,No,No,4,59,300,5,4.1-5,2014-07-04,0.2,Brazil,2014,7,Jul,Q3,5,Friday,4,2,60,4995
 7302898,Aprazvel,30,Rio de Janeiro,-43.18736944,-22.92481389,Brazilian,Brazilian Real(R$),No,No,No,No,4,44,300,5,4.1-5,2013-11-21,0.2,Brazil,2013,11,Nov,Q4,4,Thursday,8,3,60,4995
-6702159,A igueira ubaiyat,30,SÌ£o Paulo,-46.66983333,-23.5655,"BBQ, Grill, Brazilian",Brazilian Real(R$),No,No,No,No,4,39,300,4,4.1-5,2011-11-13,0.2,Brazil,2011,11,Nov,Q4,7,Sunday,8,3,60,4995
-6600116,ero,30,BrasÌ_lia,-47.885812,-15.720118,Italian,Brazilian Real(R$),No,No,No,No,4,8,350,3,3.1-4,2015-06-20,0.2,Brazil,2015,6,Jun,Q2,6,Saturday,3,1,70,5827.5
-6705858,errao tlia,30,SÌ£o Paulo,-46.643425,-23.545163,Italian,Brazilian Real(R$),No,No,No,No,4,37,400,4,4.1-5,2018-12-11,0.2,Brazil,2018,12,Dec,Q4,2,Tuesday,9,3,80,6660
+6702159,A igueira ubaiyat,30,S√≠¬£o Paulo,-46.66983333,-23.5655,"BBQ, Grill, Brazilian",Brazilian Real(R$),No,No,No,No,4,39,300,4,4.1-5,2011-11-13,0.2,Brazil,2011,11,Nov,Q4,7,Sunday,8,3,60,4995
+6600116,ero,30,Bras√≠_lia,-47.885812,-15.720118,Italian,Brazilian Real(R$),No,No,No,No,4,8,350,3,3.1-4,2015-06-20,0.2,Brazil,2015,6,Jun,Q2,6,Saturday,3,1,70,5827.5
+6705858,errao tlia,30,S√≠¬£o Paulo,-46.643425,-23.545163,Italian,Brazilian Real(R$),No,No,No,No,4,37,400,4,4.1-5,2018-12-11,0.2,Brazil,2018,12,Dec,Q4,2,Tuesday,9,3,80,6660
 16654702,ake ouse estaurant,37,Vineland Station,-79.3791465,43.1868697,"Italian, Mediterranean, Pizza",Dollar($),No,No,No,No,4,204,70,4,4.1-5,2015-02-01,1,Canada,2015,2,Feb,Q1,7,Sunday,11,4,70,5827.5
 18383350,ucks and Bao,148,Auckland,174.777987,-36.86565,"Asian Fusion, Pub Food, Fusion, Asian, Filipino, Malaysian, Thai",NewZealand($),No,No,No,No,4,86,70,4,3.1-4,2012-09-17,0.6,New Zealand,2012,9,Sep,Q3,1,Monday,6,2,42,3496.5
 7100171,mbra,148,Wellington City,174.775,-41.29483333,Italian,NewZealand($),No,No,No,No,4,152,70,4,4.1-5,2011-05-08,0.6,New Zealand,2011,5,May,Q2,7,Sunday,2,1,42,3496.5
@@ -936,10 +936,10 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 75764,ife rand afe,189,Pretoria,28.256922,-25.777898,"Italian, Mediterranean, Sushi, Desserts",Rand(R),No,No,No,No,4,232,400,4,4.1-5,2013-04-12,0.051,South Africa,2013,4,Apr,Q2,5,Friday,1,1,20.4,1698.3
 75026,Baobab afe  rill,189,Pretoria,28.275005,-25.782735,"Cafe, Grill",Rand(R),No,No,No,No,4,235,410,4,3.1-4,2012-07-23,0.051,South Africa,2012,7,Jul,Q3,1,Monday,4,2,20.91,1740.7575
 6402163,rand af  Beach,189,Cape Town,18.415163,-33.901746,"Seafood, African, Sushi",Rand(R),No,No,No,No,4,280,450,4,3.1-4,2015-09-14,0.051,South Africa,2015,9,Sep,Q3,1,Monday,6,2,22.95,1910.5875
-5916112,Ak ahve,208,€¡stanbul,29.036019,41.057979,Restaurant Cafe,Turkish Lira(TL),No,No,No,No,4,901,120,4,3.1-4,2017-08-13,0.05,Turkey,2017,8,Aug,Q3,7,Sunday,5,2,6,499.5
-5927248,raft astro ub,208,€¡stanbul,29.07411609,40.96393456,Bar Food,Turkish Lira(TL),No,No,No,No,4,522,130,5,4.1-5,2018-12-20,0.05,Turkey,2018,12,Dec,Q4,4,Thursday,9,3,6.5,541.125
+5916112,Ak ahve,208,√õ√Åstanbul,29.036019,41.057979,Restaurant Cafe,Turkish Lira(TL),No,No,No,No,4,901,120,4,3.1-4,2017-08-13,0.05,Turkey,2017,8,Aug,Q3,7,Sunday,5,2,6,499.5
+5927248,raft astro ub,208,√õ√Åstanbul,29.07411609,40.96393456,Bar Food,Turkish Lira(TL),No,No,No,No,4,522,130,5,4.1-5,2018-12-20,0.05,Turkey,2018,12,Dec,Q4,4,Thursday,9,3,6.5,541.125
 6000409,afemiz,208,Ankara,32.86568333,39.89787222,"World Cuisine, Mexican, Italian",Turkish Lira(TL),No,No,No,No,4,115,150,4,4.1-5,2014-11-25,0.05,Turkey,2014,11,Nov,Q4,2,Tuesday,8,3,7.5,624.375
-5915807,uqqa,208,€¡stanbul,29.03464001,41.05581715,"Italian, World Cuisine",Turkish Lira(TL),No,No,No,No,4,661,170,4,3.1-4,2014-11-26,0.05,Turkey,2014,11,Nov,Q4,3,Wednesday,8,3,8.5,707.625
+5915807,uqqa,208,√õ√Åstanbul,29.03464001,41.05581715,"Italian, World Cuisine",Turkish Lira(TL),No,No,No,No,4,661,170,4,3.1-4,2014-11-26,0.05,Turkey,2014,11,Nov,Q4,3,Wednesday,8,3,8.5,707.625
 6000019,usrt,208,Ankara,32.86483333,39.89966667,Steak,Turkish Lira(TL),No,No,No,No,4,97,400,4,4.1-5,2010-04-09,0.05,Turkey,2010,4,Apr,Q2,5,Friday,1,1,20,1665
 5600959,ayaab aandi,214,Sharjah,55.37552107,25.32813499,"Pakistani, Indian",Emirati Diram(AED),No,Yes,No,No,4,449,100,4,4.1-5,2012-11-18,0.27,United Arab Emirates,2012,11,Nov,Q4,7,Sunday,8,3,27,2247.75
 18268134,aroob,214,Sharjah,55.38474888,25.32451353,Lebanese,Emirati Diram(AED),No,Yes,No,No,4,69,110,4,3.1-4,2015-07-09,0.27,United Arab Emirates,2015,7,Jul,Q3,4,Thursday,4,2,29.7,2472.525
@@ -960,22 +960,22 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 201531,ard ock afe,214,Dubai,55.35147775,25.22399154,"American, Burger",Emirati Diram(AED),No,No,No,No,4,1388,300,4,4.1-5,2011-01-23,0.27,United Arab Emirates,2011,1,Jan,Q1,7,Sunday,10,4,81,6743.25
 5703500,unjab rill,214,Abu Dhabi,54.4872137,24.4106148,"Indian, North Indian",Emirati Diram(AED),Yes,No,No,No,4,216,330,5,4.1-5,2015-08-12,0.27,United Arab Emirates,2015,8,Aug,Q3,3,Wednesday,5,2,89.1,7417.575
 5700052,ho ao  rowne laza Abu habi,214,Abu Dhabi,54.365694,24.491235,"Thai, Japanese, Chinese, Indonesian, Vietnamese",Emirati Diram(AED),Yes,Yes,No,No,4,246,350,4,4.1-5,2012-04-22,0.27,United Arab Emirates,2012,4,Apr,Q2,7,Sunday,1,1,94.5,7867.125
-7601102,haophraya,215,Edinburgh,-3.203159,55.952221,Thai,Pounds(å£),Yes,No,No,No,4,61,50,4,4.1-5,2017-10-13,1.24,United Kingdom,2017,10,Oct,Q4,5,Friday,7,3,62,5161.5
-7600921,teak,215,Edinburgh,-3.186854,55.957033,"Steak, Scottish, British",Pounds(å£),No,No,No,No,4,64,55,4,4.1-5,2012-10-12,1.24,United Kingdom,2012,10,Oct,Q4,5,Friday,7,3,68.2,5677.65
-6800569,haophraya,215,Manchester,-2.243505,53.48174,Thai,Pounds(å£),Yes,No,No,No,4,422,70,4,4.1-5,2018-09-08,1.24,United Kingdom,2018,9,Sep,Q3,6,Saturday,6,2,86.8,7226.1
-6118140,ymkhana,215,London,-0.141645,51.508515,"Indian, Pakistani, Curry",Pounds(å£),Yes,No,No,No,4,214,80,5,4.1-5,2010-10-08,1.24,United Kingdom,2010,10,Oct,Q4,5,Friday,7,3,99.2,8258.4
-6900388,asan estaurant,215,Birmingham,-1.907596,52.485015,Indian,Pounds(å£),No,No,No,No,4,213,80,4,4.1-5,2014-04-22,1.24,United Kingdom,2014,4,Apr,Q2,2,Tuesday,1,1,99.2,8258.4
-6800892,aucho,215,Manchester,-2.247633,53.482261,"Argentine, American",Pounds(å£),No,No,No,No,4,602,80,4,4.1-5,2012-11-15,1.24,United Kingdom,2012,11,Nov,Q4,4,Thursday,8,3,99.2,8258.4
-6801867,anchester ouse,215,Manchester,-2.250806,53.48124,British,Pounds(å£),No,No,No,No,4,52,85,4,3.1-4,2013-03-11,1.24,United Kingdom,2013,3,Mar,Q1,1,Monday,12,4,105.4,8774.55
-6103902,auatcha,215,London,-0.135229,51.513739,"Chinese, Dim Sum",Pounds(å£),Yes,No,No,No,4,1326,90,5,4.1-5,2018-10-03,1.24,United Kingdom,2018,10,Oct,Q4,3,Wednesday,7,3,111.6,9290.7
-7601241,he itchin,215,Edinburgh,-3.172778,55.97698,"British, French",Pounds(å£),No,No,No,No,4,275,90,4,4.1-5,2016-09-18,1.24,United Kingdom,2016,9,Sep,Q3,7,Sunday,6,2,111.6,9290.7
-7600914,he itchery  he ecret arden,215,Edinburgh,-3.19575,55.94828056,"British, Scottish, Seafood",Pounds(å£),Yes,No,No,No,4,200,100,4,4.1-5,2012-09-28,1.24,United Kingdom,2012,9,Sep,Q3,5,Friday,6,2,124,10323
-6103868,obu,215,London,-0.143259,51.508811,"Japanese, Sushi",Pounds(å£),Yes,No,No,No,4,311,100,4,4.1-5,2013-04-25,1.24,United Kingdom,2013,4,Apr,Q2,4,Thursday,1,1,124,10323
-6113857,sketch allery,215,London,-0.141557,51.512669,"British, Contemporary",Pounds(å£),No,No,No,No,4,148,100,4,4.1-5,2015-09-26,1.24,United Kingdom,2015,9,Sep,Q3,6,Saturday,6,2,124,10323
-6102866,akkasan,215,London,-0.144861,51.510342,"Chinese, Dim Sum",Pounds(å£),Yes,No,No,No,4,395,120,5,4.1-5,2013-01-12,1.24,United Kingdom,2013,1,Jan,Q1,6,Saturday,10,4,148.8,12387.6
-6900674,urnells,215,Birmingham,-1.901843,52.483643,Contemporary,Pounds(å£),No,No,No,No,4,265,120,4,4.1-5,2017-12-12,1.24,United Kingdom,2017,12,Dec,Q4,2,Tuesday,9,3,148.8,12387.6
-6800782,he rench by imon ogan  he idland,215,Manchester,-2.245077,53.477154,French,Pounds(å£),No,No,No,No,4,114,160,4,4.1-5,2012-05-26,1.24,United Kingdom,2012,5,May,Q2,6,Saturday,2,1,198.4,16516.8
-6113680,estaurant ordon amsay,215,London,-0.162092,51.485509,French,Pounds(å£),No,No,No,No,4,320,230,5,4.1-5,2011-11-20,1.24,United Kingdom,2011,11,Nov,Q4,7,Sunday,8,3,285.2,23742.9
+7601102,haophraya,215,Edinburgh,-3.203159,55.952221,Thai,Pounds(¬å¬£),Yes,No,No,No,4,61,50,4,4.1-5,2017-10-13,1.24,United Kingdom,2017,10,Oct,Q4,5,Friday,7,3,62,5161.5
+7600921,teak,215,Edinburgh,-3.186854,55.957033,"Steak, Scottish, British",Pounds(¬å¬£),No,No,No,No,4,64,55,4,4.1-5,2012-10-12,1.24,United Kingdom,2012,10,Oct,Q4,5,Friday,7,3,68.2,5677.65
+6800569,haophraya,215,Manchester,-2.243505,53.48174,Thai,Pounds(¬å¬£),Yes,No,No,No,4,422,70,4,4.1-5,2018-09-08,1.24,United Kingdom,2018,9,Sep,Q3,6,Saturday,6,2,86.8,7226.1
+6118140,ymkhana,215,London,-0.141645,51.508515,"Indian, Pakistani, Curry",Pounds(¬å¬£),Yes,No,No,No,4,214,80,5,4.1-5,2010-10-08,1.24,United Kingdom,2010,10,Oct,Q4,5,Friday,7,3,99.2,8258.4
+6900388,asan estaurant,215,Birmingham,-1.907596,52.485015,Indian,Pounds(¬å¬£),No,No,No,No,4,213,80,4,4.1-5,2014-04-22,1.24,United Kingdom,2014,4,Apr,Q2,2,Tuesday,1,1,99.2,8258.4
+6800892,aucho,215,Manchester,-2.247633,53.482261,"Argentine, American",Pounds(¬å¬£),No,No,No,No,4,602,80,4,4.1-5,2012-11-15,1.24,United Kingdom,2012,11,Nov,Q4,4,Thursday,8,3,99.2,8258.4
+6801867,anchester ouse,215,Manchester,-2.250806,53.48124,British,Pounds(¬å¬£),No,No,No,No,4,52,85,4,3.1-4,2013-03-11,1.24,United Kingdom,2013,3,Mar,Q1,1,Monday,12,4,105.4,8774.55
+6103902,auatcha,215,London,-0.135229,51.513739,"Chinese, Dim Sum",Pounds(¬å¬£),Yes,No,No,No,4,1326,90,5,4.1-5,2018-10-03,1.24,United Kingdom,2018,10,Oct,Q4,3,Wednesday,7,3,111.6,9290.7
+7601241,he itchin,215,Edinburgh,-3.172778,55.97698,"British, French",Pounds(¬å¬£),No,No,No,No,4,275,90,4,4.1-5,2016-09-18,1.24,United Kingdom,2016,9,Sep,Q3,7,Sunday,6,2,111.6,9290.7
+7600914,he itchery  he ecret arden,215,Edinburgh,-3.19575,55.94828056,"British, Scottish, Seafood",Pounds(¬å¬£),Yes,No,No,No,4,200,100,4,4.1-5,2012-09-28,1.24,United Kingdom,2012,9,Sep,Q3,5,Friday,6,2,124,10323
+6103868,obu,215,London,-0.143259,51.508811,"Japanese, Sushi",Pounds(¬å¬£),Yes,No,No,No,4,311,100,4,4.1-5,2013-04-25,1.24,United Kingdom,2013,4,Apr,Q2,4,Thursday,1,1,124,10323
+6113857,sketch allery,215,London,-0.141557,51.512669,"British, Contemporary",Pounds(¬å¬£),No,No,No,No,4,148,100,4,4.1-5,2015-09-26,1.24,United Kingdom,2015,9,Sep,Q3,6,Saturday,6,2,124,10323
+6102866,akkasan,215,London,-0.144861,51.510342,"Chinese, Dim Sum",Pounds(¬å¬£),Yes,No,No,No,4,395,120,5,4.1-5,2013-01-12,1.24,United Kingdom,2013,1,Jan,Q1,6,Saturday,10,4,148.8,12387.6
+6900674,urnells,215,Birmingham,-1.901843,52.483643,Contemporary,Pounds(¬å¬£),No,No,No,No,4,265,120,4,4.1-5,2017-12-12,1.24,United Kingdom,2017,12,Dec,Q4,2,Tuesday,9,3,148.8,12387.6
+6800782,he rench by imon ogan  he idland,215,Manchester,-2.245077,53.477154,French,Pounds(¬å¬£),No,No,No,No,4,114,160,4,4.1-5,2012-05-26,1.24,United Kingdom,2012,5,May,Q2,6,Saturday,2,1,198.4,16516.8
+6113680,estaurant ordon amsay,215,London,-0.162092,51.485509,French,Pounds(¬å¬£),No,No,No,No,4,320,230,5,4.1-5,2011-11-20,1.24,United Kingdom,2011,11,Nov,Q4,7,Sunday,8,3,285.2,23742.9
 17060320,aglan oad rish ub and estaurant,216,Orlando,-81.517725,28.371338,Irish,Dollar($),No,No,No,No,4,782,50,4,4.1-5,2010-07-28,1,United States,2010,7,Jul,Q3,3,Wednesday,4,2,50,4162.5
 17059541,aggianos ittle taly,216,Orlando,-81.471447,28.433235,Italian,Dollar($),No,No,No,No,4,886,50,4,4.1-5,2012-01-27,1,United States,2012,1,Jan,Q1,5,Friday,10,4,50,4162.5
 17060516,easons 52 resh rill,216,Orlando,-81.487978,28.448175,American,Dollar($),No,No,No,No,4,1685,60,4,4.1-5,2017-04-08,1,United States,2017,4,Apr,Q2,6,Saturday,1,1,60,4995
@@ -9178,9 +9178,9 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 18291198,hisky amba,1,Gurgaon,77.09688552,28.45104175,"Italian, Burger, Charcoal Grill",Indian Rupees(Rs.),Yes,No,No,No,4,127,2500,4,3.1-4,2010-01-23,0.012,India,2010,1,Jan,Q1,6,Saturday,10,4,30,2497.5
 208939,ABs Absolute Barbecues,214,Dubai,55.17874617,25.10777315,"Indian, Continental",Emirati Diram(AED),Yes,No,No,No,3,2510,160,5,4.1-5,2018-05-13,0.27,United Arab Emirates,2018,5,May,Q2,7,Sunday,2,1,43.2,3596.4
 18306533,he Brewhouse,1,Gurgaon,77.04178983,28.41593885,Continental,Indian Rupees(Rs.),Yes,No,No,No,4,56,2500,4,4.1-5,2016-12-24,0.012,India,2016,12,Dec,Q4,6,Saturday,9,3,30,2497.5
-6104220,oti hai,215,London,-0.155732,51.514641,"Indian, Street Food",Pounds(å£),Yes,No,No,No,3,367,45,4,4.1-5,2010-04-16,1.24,United Kingdom,2010,4,Apr,Q2,5,Friday,1,1,55.8,4645.35
+6104220,oti hai,215,London,-0.155732,51.514641,"Indian, Street Food",Pounds(¬å¬£),Yes,No,No,No,3,367,45,4,4.1-5,2010-04-16,1.24,United Kingdom,2010,4,Apr,Q2,5,Friday,1,1,55.8,4645.35
 3212,hicane,1,Noida,77.3410212,28.5854928,"European, North Indian, Chinese",Indian Rupees(Rs.),Yes,No,No,No,4,116,2500,2,2.1-3,2015-06-17,0.012,India,2015,6,Jun,Q2,3,Wednesday,3,1,30,2497.5
-6900374,Bank,215,Birmingham,-1.914805,52.477693,"British, Steak",Pounds(å£),Yes,No,No,No,3,133,60,4,3.1-4,2011-03-19,1.24,United Kingdom,2011,3,Mar,Q1,6,Saturday,12,4,74.4,6193.8
+6900374,Bank,215,Birmingham,-1.914805,52.477693,"British, Steak",Pounds(¬å¬£),Yes,No,No,No,3,133,60,4,3.1-4,2011-03-19,1.24,United Kingdom,2011,3,Mar,Q1,6,Saturday,12,4,74.4,6193.8
 1244, ridays,1,Noida,77.3262056,28.5676834,"American, Tex-Mex",Indian Rupees(Rs.),Yes,Yes,No,No,4,1147,2500,4,3.1-4,2013-02-19,0.012,India,2013,2,Feb,Q1,2,Tuesday,11,4,30,2497.5
 300713,9 ars ounge,1,Ghaziabad,77.36989718,28.63423199,"North Indian, Chinese",Indian Rupees(Rs.),Yes,No,No,No,4,184,2500,2,2.1-3,2018-11-18,0.012,India,2018,11,Nov,Q4,7,Sunday,8,3,30,2497.5
 6317637,e etit ouffle,162,Makati City,121.027535,14.565443,"French, Japanese, Desserts",Botswana Pula(P),Yes,No,No,No,3,314,1100,5,4.1-5,2016-01-19,0.073,Phillipines,2016,1,Jan,Q1,2,Tuesday,10,4,80.3,6684.975
@@ -9189,7 +9189,7 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 6304287,zakaya ikufuji,162,Makati City,121.014101,14.553708,Japanese,Botswana Pula(P),Yes,No,No,No,3,591,1200,4,4.1-5,2010-12-06,0.073,Phillipines,2010,12,Dec,Q4,1,Monday,9,3,87.6,7292.7
 202321,he arm,214,Dubai,55.310519,25.095044,"Mediterranean, Italian, Thai, European",Emirati Diram(AED),Yes,No,No,No,3,927,280,4,3.1-4,2015-12-22,0.27,United Arab Emirates,2015,12,Dec,Q4,2,Tuesday,9,3,75.6,6293.7
 18233284,arzi afe,214,Dubai,55.26191946,25.2080323,"International, Indian",Emirati Diram(AED),Yes,No,No,No,3,909,200,4,4.1-5,2012-12-13,0.27,United Arab Emirates,2012,12,Dec,Q4,4,Thursday,9,3,54,4495.5
-6900224,haophraya,215,Birmingham,-1.894286,52.477633,Thai,Pounds(å£),Yes,No,No,No,2,22,30,4,3.1-4,2010-12-21,1.24,United Kingdom,2010,12,Dec,Q4,2,Tuesday,9,3,37.2,3096.9
+6900224,haophraya,215,Birmingham,-1.894286,52.477633,Thai,Pounds(¬å¬£),Yes,No,No,No,2,22,30,4,3.1-4,2010-12-21,1.24,United Kingdom,2010,12,Dec,Q4,2,Tuesday,9,3,37.2,3096.9
 6310470,uevarras,162,San Juan City,121.0335917,14.59345,Filipino,Botswana Pula(P),Yes,No,No,No,3,458,1000,4,4.1-5,2018-11-21,0.073,Phillipines,2018,11,Nov,Q4,3,Wednesday,8,3,73,6077.25
 3400060,aj Bano   ughal,1,Agra,78.044095,27.160934,Mughlai,Indian Rupees(Rs.),No,No,No,No,4,41,2500,4,3.1-4,2013-05-24,0.012,India,2013,5,May,Q2,5,Friday,2,1,30,2497.5
 3400059,eshawri   ughal,1,Agra,78.044095,27.160934,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,No,No,4,133,2500,4,4.1-5,2015-03-17,0.012,India,2015,3,Mar,Q1,2,Tuesday,12,4,30,2497.5
@@ -9198,82 +9198,82 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 3695,eoffreys,1,Noida,77.32315633,28.56812092,"Asian, Continental, Italian, North Indian",Indian Rupees(Rs.),Yes,No,No,No,4,579,2600,3,2.1-3,2018-06-27,0.012,India,2018,6,Jun,Q2,3,Wednesday,3,1,31.2,2597.4
 300697,herry Bar  he eela Ambience onvention otel,1,New Delhi,77.30317778,28.66113333,Finger Food,Indian Rupees(Rs.),Yes,No,No,No,4,48,2650,4,3.1-4,2016-02-01,0.012,India,2016,2,Feb,Q1,1,Monday,11,4,31.8,2647.35
 3227,Bar  he rand ew elhi,1,New Delhi,77.15246,28.538993,"American, Finger Food",Indian Rupees(Rs.),Yes,No,No,No,4,145,2650,3,3.1-4,2014-12-14,0.012,India,2014,12,Dec,Q4,7,Sunday,9,3,31.8,2647.35
-6100054,asala one,215,London,-0.123132,51.513196,"Indian, Curry",Pounds(å£),Yes,No,No,No,2,316,30,4,4.1-5,2017-10-16,1.24,United Kingdom,2017,10,Oct,Q4,1,Monday,7,3,37.2,3096.9
-6801873,r oopers ouse  arden  he idland,215,Manchester,-2.245034,53.477358,"European, Mediterranean, Contemporary",Pounds(å£),Yes,No,No,No,3,67,55,4,4.1-5,2017-10-03,1.24,United Kingdom,2017,10,Oct,Q4,2,Tuesday,7,3,68.2,5677.65
-6900883,u us afe,215,Birmingham,-1.918049,52.477569,"Cafe, British",Pounds(å£),No,No,No,No,1,13,15,4,3.1-4,2010-06-09,1.24,United Kingdom,2010,6,Jun,Q2,3,Wednesday,3,1,18.6,1548.45
+6100054,asala one,215,London,-0.123132,51.513196,"Indian, Curry",Pounds(¬å¬£),Yes,No,No,No,2,316,30,4,4.1-5,2017-10-16,1.24,United Kingdom,2017,10,Oct,Q4,1,Monday,7,3,37.2,3096.9
+6801873,r oopers ouse  arden  he idland,215,Manchester,-2.245034,53.477358,"European, Mediterranean, Contemporary",Pounds(¬å¬£),Yes,No,No,No,3,67,55,4,4.1-5,2017-10-03,1.24,United Kingdom,2017,10,Oct,Q4,2,Tuesday,7,3,68.2,5677.65
+6900883,u us afe,215,Birmingham,-1.918049,52.477569,"Cafe, British",Pounds(¬å¬£),No,No,No,No,1,13,15,4,3.1-4,2010-06-09,1.24,United Kingdom,2010,6,Jun,Q2,3,Wednesday,3,1,18.6,1548.45
 7101011,kim Burgers,148,Wellington City,174.774151,-41.296107,Fast Food,NewZealand($),No,No,No,No,1,195,25,4,4.1-5,2010-05-25,0.6,New Zealand,2010,5,May,Q2,2,Tuesday,2,1,15,1248.75
 7000162,iapo,148,Auckland,174.768851,-36.845553,"Ice Cream, Desserts",NewZealand($),No,No,No,No,1,617,20,5,4.1-5,2014-04-22,0.6,New Zealand,2014,4,Apr,Q2,2,Tuesday,1,1,12,999
-6901394,amjar,215,Birmingham,-1.860593,52.470571,"Ice Cream, Desserts, Cafe",Pounds(å£),No,No,No,No,1,11,15,3,3.1-4,2014-03-12,1.24,United Kingdom,2014,3,Mar,Q1,3,Wednesday,12,4,18.6,1548.45
-6601005,af aniel Briand,30,BrasÌ_lia,-47.88266667,-15.7775,Cafe,Brazilian Real(R$),No,No,No,No,1,9,30,4,3.1-4,2016-02-27,0.2,Brazil,2016,2,Feb,Q1,6,Saturday,11,4,6,499.5
+6901394,amjar,215,Birmingham,-1.860593,52.470571,"Ice Cream, Desserts, Cafe",Pounds(¬å¬£),No,No,No,No,1,11,15,3,3.1-4,2014-03-12,1.24,United Kingdom,2014,3,Mar,Q1,3,Wednesday,12,4,18.6,1548.45
+6601005,af aniel Briand,30,Bras√≠_lia,-47.88266667,-15.7775,Cafe,Brazilian Real(R$),No,No,No,No,1,9,30,4,3.1-4,2016-02-27,0.2,Brazil,2016,2,Feb,Q1,6,Saturday,11,4,6,499.5
 18217279,iann,148,Auckland,174.768986,-36.84604966,Desserts,NewZealand($),No,No,No,No,1,281,25,5,4.1-5,2011-12-03,0.6,New Zealand,2011,12,Dec,Q4,6,Saturday,9,3,15,1248.75
-6600060,andubas af,30,BrasÌ_lia,-47.89016667,-15.797,"Brazilian, Cafe",Brazilian Real(R$),No,No,No,No,1,2,30,1,0-1,2011-10-15,0.2,Brazil,2011,10,Oct,Q4,6,Saturday,7,3,6,499.5
-6900714,epes iri iri,215,Birmingham,-1.846811,52.488557,Fast Food,Pounds(å£),No,No,No,No,1,26,10,3,2.1-3,2018-10-08,1.24,United Kingdom,2018,10,Oct,Q4,1,Monday,7,3,12.4,1032.3
-6800538,Archies,215,Manchester,-2.241047,53.474221,"Fast Food, American",Pounds(å£),No,No,No,No,1,25,15,3,3.1-4,2012-10-12,1.24,United Kingdom,2012,10,Oct,Q4,5,Friday,7,3,18.6,1548.45
-6900160,andmade Burger o,215,Birmingham,-1.894286,52.477633,"Burger, American",Pounds(å£),No,No,No,No,2,21,35,4,3.1-4,2011-09-08,1.24,United Kingdom,2011,9,Sep,Q3,4,Thursday,6,2,43.4,3613.05
-6900811,stanbul estaurant,215,Birmingham,-1.939166667,52.51416667,Turkish,Pounds(å£),No,No,No,No,2,9,30,4,3.1-4,2018-09-11,1.24,United Kingdom,2018,9,Sep,Q3,2,Tuesday,6,2,37.2,3096.9
-6114338,lat ron,215,London,-0.138343,51.512069,Steak,Pounds(å£),No,No,No,No,2,309,35,5,4.1-5,2014-09-02,1.24,United Kingdom,2014,9,Sep,Q3,2,Tuesday,6,2,43.4,3613.05
+6600060,andubas af,30,Bras√≠_lia,-47.89016667,-15.797,"Brazilian, Cafe",Brazilian Real(R$),No,No,No,No,1,2,30,1,0-1,2011-10-15,0.2,Brazil,2011,10,Oct,Q4,6,Saturday,7,3,6,499.5
+6900714,epes iri iri,215,Birmingham,-1.846811,52.488557,Fast Food,Pounds(¬å¬£),No,No,No,No,1,26,10,3,2.1-3,2018-10-08,1.24,United Kingdom,2018,10,Oct,Q4,1,Monday,7,3,12.4,1032.3
+6800538,Archies,215,Manchester,-2.241047,53.474221,"Fast Food, American",Pounds(¬å¬£),No,No,No,No,1,25,15,3,3.1-4,2012-10-12,1.24,United Kingdom,2012,10,Oct,Q4,5,Friday,7,3,18.6,1548.45
+6900160,andmade Burger o,215,Birmingham,-1.894286,52.477633,"Burger, American",Pounds(¬å¬£),No,No,No,No,2,21,35,4,3.1-4,2011-09-08,1.24,United Kingdom,2011,9,Sep,Q3,4,Thursday,6,2,43.4,3613.05
+6900811,stanbul estaurant,215,Birmingham,-1.939166667,52.51416667,Turkish,Pounds(¬å¬£),No,No,No,No,2,9,30,4,3.1-4,2018-09-11,1.24,United Kingdom,2018,9,Sep,Q3,2,Tuesday,6,2,37.2,3096.9
+6114338,lat ron,215,London,-0.138343,51.512069,Steak,Pounds(¬å¬£),No,No,No,No,2,309,35,5,4.1-5,2014-09-02,1.24,United Kingdom,2014,9,Sep,Q3,2,Tuesday,6,2,43.4,3613.05
 6400421,ruth offee,189,Cape Town,18.42286024,-33.92849643,Cafe,Rand(R),No,No,No,No,2,514,150,4,4.1-5,2012-09-28,0.051,South Africa,2012,9,Sep,Q3,5,Friday,6,2,7.65,636.8625
 5800612,Burgers ing,191,Colombo,79.85074807,6.923933284,Fast Food,Sri Lankan Rupee(LKR),No,No,No,No,2,199,1000,4,4.1-5,2012-09-22,0.0034,Sri lanka,2012,9,Sep,Q3,6,Saturday,6,2,3.4,283.05
 5701729,ofra stanbul,214,Abu Dhabi,54.37127855,24.47756501,"Turkish, Arabian, Middle Eastern",Emirati Diram(AED),No,No,No,No,2,224,70,4,4.1-5,2013-08-18,0.27,United Arab Emirates,2013,8,Aug,Q3,7,Sunday,5,2,18.9,1573.425
-6901051,he lough,215,Birmingham,-1.943852,52.460962,British,Pounds(å£),No,No,No,No,2,55,30,4,4.1-5,2010-08-19,1.24,United Kingdom,2010,8,Aug,Q3,4,Thursday,5,2,37.2,3096.9
-6117859,hake hack,215,London,-0.12262,51.511682,"American, Burger",Pounds(å£),No,No,No,No,2,473,30,4,4.1-5,2016-08-01,1.24,United Kingdom,2016,8,Aug,Q3,1,Monday,5,2,37.2,3096.9
-6800280,onolos layhouse estaurant,215,Manchester,-2.239385,53.494691,"American, Fast Food, Desserts, Steak",Pounds(å£),No,No,No,No,2,14,30,3,3.1-4,2017-08-14,1.24,United Kingdom,2017,8,Aug,Q3,1,Monday,5,2,37.2,3096.9
-6801039,an arlo,215,Manchester,-2.248848,53.481413,Italian,Pounds(å£),No,No,No,No,2,745,25,4,4.1-5,2014-08-20,1.24,United Kingdom,2014,8,Aug,Q3,3,Wednesday,5,2,31,2580.75
+6901051,he lough,215,Birmingham,-1.943852,52.460962,British,Pounds(¬å¬£),No,No,No,No,2,55,30,4,4.1-5,2010-08-19,1.24,United Kingdom,2010,8,Aug,Q3,4,Thursday,5,2,37.2,3096.9
+6117859,hake hack,215,London,-0.12262,51.511682,"American, Burger",Pounds(¬å¬£),No,No,No,No,2,473,30,4,4.1-5,2016-08-01,1.24,United Kingdom,2016,8,Aug,Q3,1,Monday,5,2,37.2,3096.9
+6800280,onolos layhouse estaurant,215,Manchester,-2.239385,53.494691,"American, Fast Food, Desserts, Steak",Pounds(¬å¬£),No,No,No,No,2,14,30,3,3.1-4,2017-08-14,1.24,United Kingdom,2017,8,Aug,Q3,1,Monday,5,2,37.2,3096.9
+6801039,an arlo,215,Manchester,-2.248848,53.481413,Italian,Pounds(¬å¬£),No,No,No,No,2,745,25,4,4.1-5,2014-08-20,1.24,United Kingdom,2014,8,Aug,Q3,3,Wednesday,5,2,31,2580.75
 6401485,he reamery,189,Cape Town,18.46195,-33.970286,"Desserts, Ice Cream",Rand(R),No,No,No,No,2,328,110,4,4.1-5,2016-08-08,0.051,South Africa,2016,8,Aug,Q3,1,Monday,5,2,5.61,467.0325
 5800718,imply trawberries By agro,191,Colombo,79.87943333,6.883738889,"Juices, Desserts",Sri Lankan Rupee(LKR),No,No,No,No,2,146,1300,4,4.1-5,2013-08-05,0.0034,Sri lanka,2013,8,Aug,Q3,1,Monday,5,2,4.42,367.965
-7601106,10 o 10 n elhi,215,Edinburgh,-3.184344444,55.94543056,"Indian, Cafe",Pounds(å£),No,No,No,No,2,73,20,4,3.1-4,2017-07-09,1.24,United Kingdom,2017,7,Jul,Q3,7,Sunday,4,2,24.8,2064.6
+7601106,10 o 10 n elhi,215,Edinburgh,-3.184344444,55.94543056,"Indian, Cafe",Pounds(¬å¬£),No,No,No,No,2,73,20,4,3.1-4,2017-07-09,1.24,United Kingdom,2017,7,Jul,Q3,7,Sunday,4,2,24.8,2064.6
 6001748,ehur zelik Aspava,208,Ankara,32.86663333,39.90663611,"Kebab, Turkish Pizza",Turkish Lira(TL),No,No,No,No,2,109,40,5,4.1-5,2010-07-08,0.05,Turkey,2010,7,Jul,Q3,4,Thursday,4,2,2,166.5
 6003879,igana ide,208,Ankara,32.76337778,39.94627778,Turkish Pizza,Turkish Lira(TL),No,No,No,No,2,103,50,4,4.1-5,2013-07-21,0.05,Turkey,2013,7,Jul,Q3,7,Sunday,4,2,2.5,208.125
-5915547,araky llolu,208,€¡stanbul,28.97763569,41.02290443,"Desserts, BÌ_rek",Turkish Lira(TL),No,No,No,No,2,1305,40,5,4.1-5,2016-07-26,0.05,Turkey,2016,7,Jul,Q3,2,Tuesday,4,2,2,166.5
+5915547,araky llolu,208,√õ√Åstanbul,28.97763569,41.02290443,"Desserts, B√≠_rek",Turkish Lira(TL),No,No,No,No,2,1305,40,5,4.1-5,2016-07-26,0.05,Turkey,2016,7,Jul,Q3,2,Tuesday,4,2,2,166.5
 18376208,erby,214,Sharjah,55.37086055,25.33045321,"Fast Food, American",Emirati Diram(AED),No,No,No,No,2,33,40,4,4.1-5,2012-06-13,0.27,United Arab Emirates,2012,6,Jun,Q2,3,Wednesday,3,1,10.8,899.1
 7423620,omo ilk,94,Bogor,106.8103014,-6.606916768,"Cafe, Desserts, Beverages",Indonesian Rupiah(IDR),No,No,No,No,2,783,70000,4,3.1-4,2016-06-13,0.000067,Indonasia,2016,6,Jun,Q2,1,Monday,3,1,4.69,390.4425
-7600097,ove rumbs,215,Edinburgh,-3.201683333,55.94595,"Bakery, Cafe",Pounds(å£),No,No,No,No,2,57,15,4,4.1-5,2010-06-13,1.24,United Kingdom,2010,6,Jun,Q2,7,Sunday,3,1,18.6,1548.45
-7601177,uk uk ndian treet ood,215,Edinburgh,-3.203588889,55.94190278,"Indian, Street Food",Pounds(å£),No,No,No,No,2,76,20,4,3.1-4,2013-06-10,1.24,United Kingdom,2013,6,Jun,Q2,1,Monday,3,1,24.8,2064.6
-6117406,ive uys,215,London,-0.126324,51.512085,"American, Burger",Pounds(å£),No,No,No,No,2,400,30,4,3.1-4,2010-06-02,1.24,United Kingdom,2010,6,Jun,Q2,3,Wednesday,3,1,37.2,3096.9
-5904116,adore hocolatier,208,€¡stanbul,28.97612661,41.03300186,Desserts,Turkish Lira(TL),No,No,No,No,2,1311,50,5,4.1-5,2016-06-13,0.05,Turkey,2016,6,Jun,Q2,1,Monday,3,1,2.5,208.125
+7600097,ove rumbs,215,Edinburgh,-3.201683333,55.94595,"Bakery, Cafe",Pounds(¬å¬£),No,No,No,No,2,57,15,4,4.1-5,2010-06-13,1.24,United Kingdom,2010,6,Jun,Q2,7,Sunday,3,1,18.6,1548.45
+7601177,uk uk ndian treet ood,215,Edinburgh,-3.203588889,55.94190278,"Indian, Street Food",Pounds(¬å¬£),No,No,No,No,2,76,20,4,3.1-4,2013-06-10,1.24,United Kingdom,2013,6,Jun,Q2,1,Monday,3,1,24.8,2064.6
+6117406,ive uys,215,London,-0.126324,51.512085,"American, Burger",Pounds(¬å¬£),No,No,No,No,2,400,30,4,3.1-4,2010-06-02,1.24,United Kingdom,2010,6,Jun,Q2,3,Wednesday,3,1,37.2,3096.9
+5904116,adore hocolatier,208,√õ√Åstanbul,28.97612661,41.03300186,Desserts,Turkish Lira(TL),No,No,No,No,2,1311,50,5,4.1-5,2016-06-13,0.05,Turkey,2016,6,Jun,Q2,1,Monday,3,1,2.5,208.125
 18251260,iss iss,148,Auckland,174.74808,-36.888662,Thai,NewZealand($),No,No,No,No,2,133,40,4,4.1-5,2011-05-05,0.6,New Zealand,2011,5,May,Q2,4,Thursday,2,1,24,1998
-6900843,hennai osa,215,Birmingham,-1.947514,52.487692,"Indian, South Indian",Pounds(å£),No,No,No,No,2,55,20,4,3.1-4,2011-05-06,1.24,United Kingdom,2011,5,May,Q2,5,Friday,2,1,24.8,2064.6
-7600188,other ndias afe,215,Edinburgh,-3.18625,55.94800278,Indian,Pounds(å£),No,No,No,No,2,279,25,4,4.1-5,2017-05-01,1.24,United Kingdom,2017,5,May,Q2,1,Monday,2,1,31,2580.75
-7601024,ing hai aravan,215,Edinburgh,-3.189979,55.945676,"Thai, Asian",Pounds(å£),No,No,No,No,2,84,20,4,4.1-5,2013-05-16,1.24,United Kingdom,2013,5,May,Q2,4,Thursday,2,1,24.8,2064.6
-6127163,Bao,215,London,-0.136576,51.513225,"Taiwanese, Street Food",Pounds(å£),No,No,No,No,2,161,20,5,4.1-5,2013-05-27,1.24,United Kingdom,2013,5,May,Q2,1,Monday,2,1,24.8,2064.6
+6900843,hennai osa,215,Birmingham,-1.947514,52.487692,"Indian, South Indian",Pounds(¬å¬£),No,No,No,No,2,55,20,4,3.1-4,2011-05-06,1.24,United Kingdom,2011,5,May,Q2,5,Friday,2,1,24.8,2064.6
+7600188,other ndias afe,215,Edinburgh,-3.18625,55.94800278,Indian,Pounds(¬å¬£),No,No,No,No,2,279,25,4,4.1-5,2017-05-01,1.24,United Kingdom,2017,5,May,Q2,1,Monday,2,1,31,2580.75
+7601024,ing hai aravan,215,Edinburgh,-3.189979,55.945676,"Thai, Asian",Pounds(¬å¬£),No,No,No,No,2,84,20,4,4.1-5,2013-05-16,1.24,United Kingdom,2013,5,May,Q2,4,Thursday,2,1,24.8,2064.6
+6127163,Bao,215,London,-0.136576,51.513225,"Taiwanese, Street Food",Pounds(¬å¬£),No,No,No,No,2,161,20,5,4.1-5,2013-05-27,1.24,United Kingdom,2013,5,May,Q2,1,Monday,2,1,24.8,2064.6
 5602884,is Burger,214,Sharjah,55.45425095,25.31127229,"Fast Food, Burger",Emirati Diram(AED),No,No,No,No,2,12,50,4,3.1-4,2015-04-25,0.27,United Arab Emirates,2015,4,Apr,Q2,6,Saturday,1,1,13.5,1123.875
-6601457,Brazilian American Burgers,30,BrasÌ_lia,-47.92102778,-15.79753056,"American, Burger",Brazilian Real(R$),No,No,No,No,2,9,50,4,3.1-4,2018-03-08,0.2,Brazil,2018,3,Mar,Q1,4,Thursday,12,4,10,832.5
+6601457,Brazilian American Burgers,30,Bras√≠_lia,-47.92102778,-15.79753056,"American, Burger",Brazilian Real(R$),No,No,No,No,2,9,50,4,3.1-4,2018-03-08,0.2,Brazil,2018,3,Mar,Q1,4,Thursday,12,4,10,832.5
 5600960,Al ukhtar Bakery,214,Sharjah,55.37728127,25.3084117,"Bakery, Arabian, Middle Eastern",Emirati Diram(AED),No,No,No,No,2,142,50,4,4.1-5,2013-03-06,0.27,United Arab Emirates,2013,3,Mar,Q1,3,Wednesday,12,4,13.5,1123.875
-6800263,Akbars,215,Manchester,-2.254833333,53.4765,Indian,Pounds(å£),No,No,No,No,2,383,30,4,4.1-5,2014-03-22,1.24,United Kingdom,2014,3,Mar,Q1,6,Saturday,12,4,37.2,3096.9
+6800263,Akbars,215,Manchester,-2.254833333,53.4765,Indian,Pounds(¬å¬£),No,No,No,No,2,383,30,4,4.1-5,2014-03-22,1.24,United Kingdom,2014,3,Mar,Q1,6,Saturday,12,4,37.2,3096.9
 6202515,okul ujarati estaurant,166,Doha,51.5141453,25.2859356,Indian,Qatari Rial(QR),No,No,No,No,2,211,50,4,4.1-5,2018-03-16,0.27,Qatar,2018,3,Mar,Q1,5,Friday,12,4,13.5,1123.875
 7302637,eme ight,30,Rio de Janeiro,-43.17279167,-22.963925,Brazilian,Brazilian Real(R$),No,No,No,No,2,7,40,4,4.1-5,2013-02-05,0.2,Brazil,2013,2,Feb,Q1,2,Tuesday,11,4,8,666
 6401060,ason Bakery,189,Cape Town,18.41457088,-33.92451515,"Cafe, Bakery",Rand(R),No,No,No,No,2,266,180,4,4.1-5,2015-02-16,0.051,South Africa,2015,2,Feb,Q1,1,Monday,11,4,9.18,764.235
 6403452,y ugar,189,Cape Town,18.382759,-33.921692,"Cafe, Patisserie, Bakery, Desserts",Rand(R),No,No,No,No,2,157,125,4,4.1-5,2014-02-02,0.051,South Africa,2014,2,Feb,Q1,7,Sunday,11,4,6.375,530.71875
 5800515,alay estaurant,191,Colombo,79.87088978,6.850283043,"Malaysian, North Indian, Sri Lankan",Sri Lankan Rupee(LKR),No,No,No,No,2,80,1500,4,3.1-4,2013-02-14,0.0034,Sri lanka,2013,2,Feb,Q1,4,Thursday,11,4,5.1,424.575
 6003426,iva,208,Ankara,32.809146,39.904709,"Patisserie, Coffee and Tea",Turkish Lira(TL),No,No,No,No,2,115,50,3,3.1-4,2017-02-14,0.05,Turkey,2017,2,Feb,Q1,2,Tuesday,11,4,2.5,208.125
-5916085,em araky,208,€¡stanbul,28.9782365,41.02463331,Cafe,Turkish Lira(TL),No,No,No,No,2,761,35,4,4.1-5,2018-02-23,0.05,Turkey,2018,2,Feb,Q1,5,Friday,11,4,1.75,145.6875
-6901062,he arehouse afe,215,Birmingham,-1.890569,52.477388,"British, Cafe",Pounds(å£),No,No,No,No,2,38,20,4,3.1-4,2012-01-15,1.24,United Kingdom,2012,1,Jan,Q1,7,Sunday,10,4,24.8,2064.6
-6900069,Bar stilo,215,Birmingham,-1.905477,52.475857,Mexican,Pounds(å£),No,No,No,No,2,93,20,4,3.1-4,2015-01-26,1.24,United Kingdom,2015,1,Jan,Q1,1,Monday,10,4,24.8,2064.6
-6600681,hez ichou,30,BrasÌ_lia,-47.88178889,-15.76414167,"Fast Food, French",Brazilian Real(R$),No,No,No,No,2,6,55,3,2.1-3,2013-12-15,0.2,Brazil,2013,12,Dec,Q4,7,Sunday,9,3,11,915.75
+5916085,em araky,208,√õ√Åstanbul,28.9782365,41.02463331,Cafe,Turkish Lira(TL),No,No,No,No,2,761,35,4,4.1-5,2018-02-23,0.05,Turkey,2018,2,Feb,Q1,5,Friday,11,4,1.75,145.6875
+6901062,he arehouse afe,215,Birmingham,-1.890569,52.477388,"British, Cafe",Pounds(¬å¬£),No,No,No,No,2,38,20,4,3.1-4,2012-01-15,1.24,United Kingdom,2012,1,Jan,Q1,7,Sunday,10,4,24.8,2064.6
+6900069,Bar stilo,215,Birmingham,-1.905477,52.475857,Mexican,Pounds(¬å¬£),No,No,No,No,2,93,20,4,3.1-4,2015-01-26,1.24,United Kingdom,2015,1,Jan,Q1,1,Monday,10,4,24.8,2064.6
+6600681,hez ichou,30,Bras√≠_lia,-47.88178889,-15.76414167,"Fast Food, French",Brazilian Real(R$),No,No,No,No,2,6,55,3,2.1-3,2013-12-15,0.2,Brazil,2013,12,Dec,Q4,7,Sunday,9,3,11,915.75
 7000992,den oodles afe ,148,Auckland,174.7524415,-36.87177949,Chinese,NewZealand($),No,No,No,No,2,212,35,4,4.1-5,2017-12-16,0.6,New Zealand,2017,12,Dec,Q4,6,Saturday,9,3,21,1748.25
 7100072,ishermans late,148,Wellington City,174.7756667,-41.289,"Vietnamese, Fish and Chips",NewZealand($),No,No,No,No,2,96,40,4,4.1-5,2011-12-11,0.6,New Zealand,2011,12,Dec,Q4,7,Sunday,9,3,24,1998
-6800908,ughli,215,Manchester,-2.225333333,53.456,"Indian, Curry",Pounds(å£),No,No,No,No,2,110,35,4,4.1-5,2014-12-16,1.24,United Kingdom,2014,12,Dec,Q4,2,Tuesday,9,3,43.4,3613.05
-6800678,ahore,215,Manchester,-2.225333333,53.45583333,"Indian, Grill",Pounds(å£),No,No,No,No,2,48,25,4,3.1-4,2013-12-24,1.24,United Kingdom,2013,12,Dec,Q4,2,Tuesday,9,3,31,2580.75
+6800908,ughli,215,Manchester,-2.225333333,53.456,"Indian, Curry",Pounds(¬å¬£),No,No,No,No,2,110,35,4,4.1-5,2014-12-16,1.24,United Kingdom,2014,12,Dec,Q4,2,Tuesday,9,3,43.4,3613.05
+6800678,ahore,215,Manchester,-2.225333333,53.45583333,"Indian, Grill",Pounds(¬å¬£),No,No,No,No,2,48,25,4,3.1-4,2013-12-24,1.24,United Kingdom,2013,12,Dec,Q4,2,Tuesday,9,3,31,2580.75
 5800634,lite ndian estaurant,191,Colombo,79.8578301,6.8960838,"North Indian, Chinese, Sri Lankan",Sri Lankan Rupee(LKR),No,No,No,No,2,240,1800,2,2.1-3,2012-12-02,0.0034,Sri lanka,2012,12,Dec,Q4,7,Sunday,9,3,6.12,509.49
 5800144,arnival ce ream,191,Colombo,79.85007349,6.910538311,"Desserts, Ice Cream",Sri Lankan Rupee(LKR),No,No,No,No,2,122,1000,4,4.1-5,2013-12-18,0.0034,Sri lanka,2013,12,Dec,Q4,3,Wednesday,9,3,3.4,283.05
 6004813,izza l orno,208,Ankara,32.86021667,39.87623889,Pizza,Turkish Lira(TL),No,No,No,No,2,104,40,5,4.1-5,2015-12-04,0.05,Turkey,2015,12,Dec,Q4,5,Friday,9,3,2,166.5
-5901782,tarbucks,208,€¡stanbul,29.04373437,41.07769599,Cafe,Turkish Lira(TL),No,No,No,No,2,1042,30,5,4.1-5,2013-12-04,0.05,Turkey,2013,12,Dec,Q4,3,Wednesday,9,3,1.5,124.875
+5901782,tarbucks,208,√õ√Åstanbul,29.04373437,41.07769599,Cafe,Turkish Lira(TL),No,No,No,No,2,1042,30,5,4.1-5,2013-12-04,0.05,Turkey,2013,12,Dec,Q4,3,Wednesday,9,3,1.5,124.875
 18255654,obing orean essert afe,162,Taguig City,121.045878,14.55436,"Cafe, Korean, Desserts",Botswana Pula(P),No,No,No,No,2,118,600,4,4.1-5,2017-11-28,0.073,Phillipines,2017,11,Nov,Q4,2,Tuesday,8,3,43.8,3646.35
-6710645,antinho da ula,30,SÌ£o Paulo,-46.67566667,-23.581,Brazilian,Brazilian Real(R$),No,No,No,No,2,0,55,1,0-1,2011-11-14,0.2,Brazil,2011,11,Nov,Q4,1,Monday,8,3,11,915.75
+6710645,antinho da ula,30,S√≠¬£o Paulo,-46.67566667,-23.581,Brazilian,Brazilian Real(R$),No,No,No,No,2,0,55,1,0-1,2011-11-14,0.2,Brazil,2011,11,Nov,Q4,1,Monday,8,3,11,915.75
 7100535,idnight spresso,148,Wellington City,174.774912,-41.294565,Cafe,NewZealand($),No,No,No,No,2,157,40,4,4.1-5,2018-11-11,0.6,New Zealand,2018,11,Nov,Q4,7,Sunday,8,3,24,1998
-18273002,amascena offee ouse,215,Birmingham,-1.888555455,52.44630234,"Greek, Mediterranean, Middle Eastern",Pounds(å£),No,No,No,No,2,3,20,1,0-1,2013-11-11,1.24,United Kingdom,2013,11,Nov,Q4,1,Monday,8,3,24.8,2064.6
-7602219,Bentoya,215,Edinburgh,-3.204735,55.945895,"Sushi, Japanese, Cantonese",Pounds(å£),No,No,No,No,2,32,25,4,3.1-4,2015-11-21,1.24,United Kingdom,2015,11,Nov,Q4,6,Saturday,8,3,31,2580.75
-6800443,antos,215,Manchester,-2.246548,53.513525,"Pizza, Fast Food",Pounds(å£),No,No,No,No,2,23,20,3,3.1-4,2013-11-03,1.24,United Kingdom,2013,11,Nov,Q4,7,Sunday,8,3,24.8,2064.6
-6801051,awaab,215,Manchester,-2.189833333,53.44183333,"Pakistani, Indian, Afghani, Curry",Pounds(å£),No,No,No,No,2,150,35,4,3.1-4,2014-11-20,1.24,United Kingdom,2014,11,Nov,Q4,4,Thursday,8,3,43.4,3613.05
+18273002,amascena offee ouse,215,Birmingham,-1.888555455,52.44630234,"Greek, Mediterranean, Middle Eastern",Pounds(¬å¬£),No,No,No,No,2,3,20,1,0-1,2013-11-11,1.24,United Kingdom,2013,11,Nov,Q4,1,Monday,8,3,24.8,2064.6
+7602219,Bentoya,215,Edinburgh,-3.204735,55.945895,"Sushi, Japanese, Cantonese",Pounds(¬å¬£),No,No,No,No,2,32,25,4,3.1-4,2015-11-21,1.24,United Kingdom,2015,11,Nov,Q4,6,Saturday,8,3,31,2580.75
+6800443,antos,215,Manchester,-2.246548,53.513525,"Pizza, Fast Food",Pounds(¬å¬£),No,No,No,No,2,23,20,3,3.1-4,2013-11-03,1.24,United Kingdom,2013,11,Nov,Q4,7,Sunday,8,3,24.8,2064.6
+6801051,awaab,215,Manchester,-2.189833333,53.44183333,"Pakistani, Indian, Afghani, Curry",Pounds(¬å¬£),No,No,No,No,2,150,35,4,3.1-4,2014-11-20,1.24,United Kingdom,2014,11,Nov,Q4,4,Thursday,8,3,43.4,3613.05
 5801970,Butter Boutique,191,Colombo,79.856148,6.90686,"Desserts, Bakery",Sri Lankan Rupee(LKR),No,No,No,No,2,49,1000,4,4.1-5,2012-11-01,0.0034,Sri lanka,2012,11,Nov,Q4,4,Thursday,8,3,3.4,283.05
 6004408,urta ome afe,208,Ankara,32.70474167,39.89479444,"Cafe, Desserts",Turkish Lira(TL),No,No,No,No,2,126,35,4,4.1-5,2018-11-27,0.05,Turkey,2018,11,Nov,Q4,2,Tuesday,8,3,1.75,145.6875
-5927402,alters offee oastery,208,€¡stanbul,29.02601603,40.98477563,Cafe,Turkish Lira(TL),No,No,No,No,2,591,55,4,3.1-4,2013-11-23,0.05,Turkey,2013,11,Nov,Q4,6,Saturday,8,3,2.75,228.9375
-6600292,asa do Biscoito ineiro,30,BrasÌ_lia,-47.88213611,-15.75747222,Bakery,Brazilian Real(R$),No,No,No,No,2,11,45,4,3.1-4,2014-10-26,0.2,Brazil,2014,10,Oct,Q4,7,Sunday,7,3,9,749.25
-6600970,izza  Bessa,30,BrasÌ_lia,-47.91566667,-15.83116667,Pizza,Brazilian Real(R$),No,No,No,No,2,11,50,3,3.1-4,2010-10-04,0.2,Brazil,2010,10,Oct,Q4,1,Monday,7,3,10,832.5
-6703956,uper rill,30,SÌ£o Paulo,-46.698574,-23.622925,Brazilian,Brazilian Real(R$),No,No,No,No,2,2,50,1,0-1,2015-10-12,0.2,Brazil,2015,10,Oct,Q4,1,Monday,7,3,10,832.5
-6103211,ishoom,215,London,-0.127164,51.512417,"Indian, North Indian, Curry, Cafe",Pounds(å£),No,No,No,No,2,964,35,5,4.1-5,2016-10-28,1.24,United Kingdom,2016,10,Oct,Q4,5,Friday,7,3,43.4,3613.05
-6801329,ome weet ome,215,Manchester,-2.236,53.48416667,"British, Burger, Cafe",Pounds(å£),No,No,No,No,2,82,30,4,4.1-5,2011-10-01,1.24,United Kingdom,2011,10,Oct,Q4,6,Saturday,7,3,37.2,3096.9
-6001757,ldz Aspava,208,Ankara,32.86660833,39.90656944,"Kebab, Turkish Pizza, DÌ_ner",Turkish Lira(TL),No,No,No,No,2,72,50,4,4.1-5,2012-10-20,0.05,Turkey,2012,10,Oct,Q4,6,Saturday,7,3,2.5,208.125
+5927402,alters offee oastery,208,√õ√Åstanbul,29.02601603,40.98477563,Cafe,Turkish Lira(TL),No,No,No,No,2,591,55,4,3.1-4,2013-11-23,0.05,Turkey,2013,11,Nov,Q4,6,Saturday,8,3,2.75,228.9375
+6600292,asa do Biscoito ineiro,30,Bras√≠_lia,-47.88213611,-15.75747222,Bakery,Brazilian Real(R$),No,No,No,No,2,11,45,4,3.1-4,2014-10-26,0.2,Brazil,2014,10,Oct,Q4,7,Sunday,7,3,9,749.25
+6600970,izza  Bessa,30,Bras√≠_lia,-47.91566667,-15.83116667,Pizza,Brazilian Real(R$),No,No,No,No,2,11,50,3,3.1-4,2010-10-04,0.2,Brazil,2010,10,Oct,Q4,1,Monday,7,3,10,832.5
+6703956,uper rill,30,S√≠¬£o Paulo,-46.698574,-23.622925,Brazilian,Brazilian Real(R$),No,No,No,No,2,2,50,1,0-1,2015-10-12,0.2,Brazil,2015,10,Oct,Q4,1,Monday,7,3,10,832.5
+6103211,ishoom,215,London,-0.127164,51.512417,"Indian, North Indian, Curry, Cafe",Pounds(¬å¬£),No,No,No,No,2,964,35,5,4.1-5,2016-10-28,1.24,United Kingdom,2016,10,Oct,Q4,5,Friday,7,3,43.4,3613.05
+6801329,ome weet ome,215,Manchester,-2.236,53.48416667,"British, Burger, Cafe",Pounds(¬å¬£),No,No,No,No,2,82,30,4,4.1-5,2011-10-01,1.24,United Kingdom,2011,10,Oct,Q4,6,Saturday,7,3,37.2,3096.9
+6001757,ldz Aspava,208,Ankara,32.86660833,39.90656944,"Kebab, Turkish Pizza, D√≠_ner",Turkish Lira(TL),No,No,No,No,2,72,50,4,4.1-5,2012-10-20,0.05,Turkey,2012,10,Oct,Q4,6,Saturday,7,3,2.5,208.125
 300688,af nosh  he eela Ambience onvention otel,1,New Delhi,77.30317778,28.66113333,"North Indian, Italian",Indian Rupees(Rs.),Yes,No,No,No,4,186,2700,4,3.1-4,2012-09-05,0.012,India,2012,9,Sep,Q3,3,Wednesday,6,2,32.4,2697.3
 18469938,B,1,New Delhi,77.2328365,28.5564122,"European, Sushi, Italian",Indian Rupees(Rs.),Yes,No,No,No,4,9,2700,3,2.1-3,2011-12-27,0.012,India,2011,12,Dec,Q4,2,Tuesday,9,3,32.4,2697.3
 18441709,owntown itchen  Bar  ourtyard by arriott,1,Gurgaon,77.080367,28.460925,"Chinese, North Indian, Italian",Indian Rupees(Rs.),No,No,No,No,4,6,2700,3,3.1-4,2013-08-06,0.012,India,2013,8,Aug,Q3,2,Tuesday,5,2,32.4,2697.3
@@ -9401,35 +9401,35 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 2742,Bukhara   aurya,1,New Delhi,77.1737243,28.5974659,North Indian,Indian Rupees(Rs.),No,No,No,No,4,2826,6500,4,4.1-5,2018-12-10,0.012,India,2018,12,Dec,Q4,1,Monday,9,3,78,6493.5
 309548,ian  Asian uisine tudio   aurya,1,New Delhi,77.1734547,28.5973505,"Asian, Japanese, Korean, Thai, Chinese",Indian Rupees(Rs.),No,No,No,No,4,188,7000,4,4.1-5,2010-09-08,0.012,India,2010,9,Sep,Q3,3,Wednesday,6,2,84,6993
 2701,rient xpress  aj alace otel,1,New Delhi,77.170087,28.5950077,European,Indian Rupees(Rs.),Yes,No,No,No,4,145,8000,4,3.1-4,2016-08-12,0.012,India,2016,8,Aug,Q3,5,Friday,5,2,96,7992
-6600379,ushi oko,30,BrasÌ_lia,-47.91566667,-15.831,Japanese,Brazilian Real(R$),No,No,No,No,3,10,80,3,3.1-4,2010-09-21,0.2,Brazil,2010,9,Sep,Q3,2,Tuesday,6,2,16,1332
+6600379,ushi oko,30,Bras√≠_lia,-47.91566667,-15.831,Japanese,Brazilian Real(R$),No,No,No,No,3,10,80,3,3.1-4,2010-09-21,0.2,Brazil,2010,9,Sep,Q3,2,Tuesday,6,2,16,1332
 7301700,arota de panema,30,Rio de Janeiro,-43.16266667,-22.94783333,"Brazilian, Bar Food",Brazilian Real(R$),No,No,No,No,3,10,80,4,4.1-5,2013-09-26,0.2,Brazil,2013,9,Sep,Q3,4,Thursday,6,2,16,1332
 7417450,alaga ampireun,94,Tangerang,106.7261194,-6.269913889,"Sunda, Indonesian",Indonesian Rupiah(IDR),No,No,No,No,3,2212,200000,5,4.1-5,2015-09-03,0.000067,Indonasia,2015,9,Sep,Q3,4,Thursday,6,2,13.4,1115.55
-6103683,Bocca i upo,215,London,-0.133947,51.511629,Italian,Pounds(å£),No,No,No,No,3,571,45,4,4.1-5,2017-09-20,1.24,United Kingdom,2017,9,Sep,Q3,3,Wednesday,6,2,55.8,4645.35
-6114829,uck  affle,215,London,-0.080963,51.516284,British,Pounds(å£),No,No,No,No,3,706,55,5,4.1-5,2016-09-09,1.24,United Kingdom,2016,9,Sep,Q3,5,Friday,6,2,68.2,5677.65
-6113973,Bone addies,215,London,-0.133789,51.512627,"Ramen, Japanese",Pounds(å£),No,No,No,No,3,418,40,5,4.1-5,2016-09-23,1.24,United Kingdom,2016,9,Sep,Q3,5,Friday,6,2,49.6,4129.2
-6801963,Almost amous Burgers,215,Manchester,-2.237033,53.484543,"Burger, American",Pounds(å£),No,No,No,No,3,86,40,4,3.1-4,2012-09-06,1.24,United Kingdom,2012,9,Sep,Q3,4,Thursday,6,2,49.6,4129.2
+6103683,Bocca i upo,215,London,-0.133947,51.511629,Italian,Pounds(¬å¬£),No,No,No,No,3,571,45,4,4.1-5,2017-09-20,1.24,United Kingdom,2017,9,Sep,Q3,3,Wednesday,6,2,55.8,4645.35
+6114829,uck  affle,215,London,-0.080963,51.516284,British,Pounds(¬å¬£),No,No,No,No,3,706,55,5,4.1-5,2016-09-09,1.24,United Kingdom,2016,9,Sep,Q3,5,Friday,6,2,68.2,5677.65
+6113973,Bone addies,215,London,-0.133789,51.512627,"Ramen, Japanese",Pounds(¬å¬£),No,No,No,No,3,418,40,5,4.1-5,2016-09-23,1.24,United Kingdom,2016,9,Sep,Q3,5,Friday,6,2,49.6,4129.2
+6801963,Almost amous Burgers,215,Manchester,-2.237033,53.484543,"Burger, American",Pounds(¬å¬£),No,No,No,No,3,86,40,4,3.1-4,2012-09-06,1.24,United Kingdom,2012,9,Sep,Q3,4,Thursday,6,2,49.6,4129.2
 6201309,A Bakery weets  estaurant,166,Doha,51.5369233,25.2802233,"Kerala, Indian, Chinese, Bakery",Qatari Rial(QR),No,No,No,No,3,322,60,4,3.1-4,2010-09-06,0.27,Qatar,2010,9,Sep,Q3,1,Monday,6,2,16.2,1348.65
 5800557,hinese ragon afe,191,Colombo,79.85667843,6.88634086,Chinese,Sri Lankan Rupee(LKR),No,No,No,No,3,118,2000,3,3.1-4,2015-09-25,0.0034,Sri lanka,2015,9,Sep,Q3,5,Friday,6,2,6.8,566.1
 6001537,ebap 49,208,Ankara,32.86014444,39.90727222,"Kebab, Turkish Pizza",Turkish Lira(TL),No,No,No,No,3,106,60,4,4.1-5,2014-09-05,0.05,Turkey,2014,9,Sep,Q3,5,Friday,6,2,3,249.75
 6000921,verolu,208,Ankara,32.701775,39.89156389,"Kebab, Desserts, Turkish Pizza",Turkish Lira(TL),No,No,No,No,3,152,70,4,4.1-5,2010-09-21,0.05,Turkey,2010,9,Sep,Q3,2,Tuesday,6,2,3.5,291.375
-5902117,alonia,208,€¡stanbul,29.0028964,41.04481318,"Restaurant Cafe, Desserts",Turkish Lira(TL),No,No,No,No,3,874,80,4,4.1-5,2018-09-02,0.05,Turkey,2018,9,Sep,Q3,7,Sunday,6,2,4,333
-5915054,Baltazar,208,€¡stanbul,28.98110311,41.02578494,"Burger, Izgara",Turkish Lira(TL),No,No,No,No,3,870,90,4,4.1-5,2018-09-15,0.05,Turkey,2018,9,Sep,Q3,6,Saturday,6,2,4.5,374.625
-5908749,eviz Aac,208,€¡stanbul,29.04129725,41.00984672,"World Cuisine, Patisserie, Cafe",Turkish Lira(TL),No,No,No,No,3,1034,105,4,4.1-5,2015-09-13,0.05,Turkey,2015,9,Sep,Q3,7,Sunday,6,2,5.25,437.0625
+5902117,alonia,208,√õ√Åstanbul,29.0028964,41.04481318,"Restaurant Cafe, Desserts",Turkish Lira(TL),No,No,No,No,3,874,80,4,4.1-5,2018-09-02,0.05,Turkey,2018,9,Sep,Q3,7,Sunday,6,2,4,333
+5915054,Baltazar,208,√õ√Åstanbul,28.98110311,41.02578494,"Burger, Izgara",Turkish Lira(TL),No,No,No,No,3,870,90,4,4.1-5,2018-09-15,0.05,Turkey,2018,9,Sep,Q3,6,Saturday,6,2,4.5,374.625
+5908749,eviz Aac,208,√õ√Åstanbul,29.04129725,41.00984672,"World Cuisine, Patisserie, Cafe",Turkish Lira(TL),No,No,No,No,3,1034,105,4,4.1-5,2015-09-13,0.05,Turkey,2015,9,Sep,Q3,7,Sunday,6,2,5.25,437.0625
 7301215,Bibi,30,Rio de Janeiro,-43.18669167,-22.97207222,"Juices, Healthy Food",Brazilian Real(R$),No,No,No,No,3,24,60,5,4.1-5,2013-08-24,0.2,Brazil,2013,8,Aug,Q3,6,Saturday,5,2,12,999
-6703176,eloso,30,SÌ£o Paulo,-46.63566667,-23.58516667,"Brazilian, Bar Food, Beverages",Brazilian Real(R$),No,No,No,No,3,58,70,5,4.1-5,2016-08-01,0.2,Brazil,2016,8,Aug,Q3,1,Monday,5,2,14,1165.5
+6703176,eloso,30,S√≠¬£o Paulo,-46.63566667,-23.58516667,"Brazilian, Bar Food, Beverages",Brazilian Real(R$),No,No,No,No,3,58,70,5,4.1-5,2016-08-01,0.2,Brazil,2016,8,Aug,Q3,1,Monday,5,2,14,1165.5
 18289126,arkers,214,Dubai,55.27927805,25.19500831,"Cafe, Burger",Emirati Diram(AED),No,No,No,No,3,386,170,4,4.1-5,2014-08-16,0.27,United Arab Emirates,2014,8,Aug,Q3,6,Saturday,5,2,45.9,3821.175
 7420899,ushi asa,94,Jakarta,106.800144,-6.101298,"Sushi, Japanese",Indonesian Rupiah(IDR),No,No,No,No,3,605,500000,5,4.1-5,2013-08-19,0.000067,Indonasia,2013,8,Aug,Q3,1,Monday,5,2,33.5,2788.875
 18370659,lip Burger,94,Jakarta,106.8085503,-6.23077495,Burger,Indonesian Rupiah(IDR),No,No,No,No,3,410,120000,4,4.1-5,2011-08-11,0.000067,Indonasia,2011,8,Aug,Q3,4,Thursday,5,2,8.04,669.33
 18386856,nokabe,94,Tangerang,106.652688,-6.241792,Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,155,300000,4,3.1-4,2018-08-26,0.000067,Indonasia,2018,8,Aug,Q3,7,Sunday,5,2,20.1,1673.325
-7600803,oudons afe  Bakery,215,Edinburgh,-3.208363,55.943501,"Cafe, Bakery",Pounds(å£),No,No,No,No,3,63,30,4,3.1-4,2012-08-12,1.24,United Kingdom,2012,8,Aug,Q3,7,Sunday,5,2,37.2,3096.9
-7600217,a avorita,215,Edinburgh,-3.176858333,55.96466944,Italian,Pounds(å£),No,No,No,No,3,329,30,4,4.1-5,2011-08-12,1.24,United Kingdom,2011,8,Aug,Q3,5,Friday,5,2,37.2,3096.9
-6101881,amies talian,215,London,-0.126963,51.51259,Italian,Pounds(å£),No,No,No,No,3,271,50,4,4.1-5,2018-08-22,1.24,United Kingdom,2018,8,Aug,Q3,3,Wednesday,5,2,62,5161.5
-6800593,ouk ea Bar  rill,215,Manchester,-2.24042,53.472433,"Indian, Seafood",Pounds(å£),No,No,No,No,3,101,50,4,3.1-4,2012-08-06,1.24,United Kingdom,2012,8,Aug,Q3,1,Monday,5,2,62,5161.5
+7600803,oudons afe  Bakery,215,Edinburgh,-3.208363,55.943501,"Cafe, Bakery",Pounds(¬å¬£),No,No,No,No,3,63,30,4,3.1-4,2012-08-12,1.24,United Kingdom,2012,8,Aug,Q3,7,Sunday,5,2,37.2,3096.9
+7600217,a avorita,215,Edinburgh,-3.176858333,55.96466944,Italian,Pounds(¬å¬£),No,No,No,No,3,329,30,4,4.1-5,2011-08-12,1.24,United Kingdom,2011,8,Aug,Q3,5,Friday,5,2,37.2,3096.9
+6101881,amies talian,215,London,-0.126963,51.51259,Italian,Pounds(¬å¬£),No,No,No,No,3,271,50,4,4.1-5,2018-08-22,1.24,United Kingdom,2018,8,Aug,Q3,3,Wednesday,5,2,62,5161.5
+6800593,ouk ea Bar  rill,215,Manchester,-2.24042,53.472433,"Indian, Seafood",Pounds(¬å¬£),No,No,No,No,3,101,50,4,3.1-4,2012-08-06,1.24,United Kingdom,2012,8,Aug,Q3,1,Monday,5,2,62,5161.5
 6404082,ocomamas,189,Cape Town,18.409153,-33.907776,"Burger, Fast Food, Grill",Rand(R),No,No,No,No,3,131,250,4,3.1-4,2013-08-17,0.051,South Africa,2013,8,Aug,Q3,6,Saturday,5,2,12.75,1061.4375
 75132,rawdaddys,189,Pretoria,28.28159167,-25.79399333,"Continental, Seafood, Burger, South African, Finger Food, Grill",Rand(R),No,No,No,No,3,158,250,4,3.1-4,2018-08-07,0.051,South Africa,2018,8,Aug,Q3,2,Tuesday,5,2,12.75,1061.4375
 6314605,odam orean estaurant,162,San Juan City,121.03811,14.59889,Korean,Botswana Pula(P),No,No,No,No,3,223,700,4,4.1-5,2018-07-15,0.073,Phillipines,2018,7,Jul,Q3,7,Sunday,4,2,51.1,4254.075
-6600441,aori,30,BrasÌ_lia,-47.88816667,-15.75883333,Brazilian,Brazilian Real(R$),No,No,No,No,3,11,60,4,3.1-4,2010-07-14,0.2,Brazil,2010,7,Jul,Q3,3,Wednesday,4,2,12,999
-6600214,Beirute,30,BrasÌ_lia,-47.9075,-15.82,Arabian,Brazilian Real(R$),No,No,No,No,3,8,90,4,3.1-4,2012-07-25,0.2,Brazil,2012,7,Jul,Q3,3,Wednesday,4,2,18,1498.5
+6600441,aori,30,Bras√≠_lia,-47.88816667,-15.75883333,Brazilian,Brazilian Real(R$),No,No,No,No,3,11,60,4,3.1-4,2010-07-14,0.2,Brazil,2010,7,Jul,Q3,3,Wednesday,4,2,12,999
+6600214,Beirute,30,Bras√≠_lia,-47.9075,-15.82,Arabian,Brazilian Real(R$),No,No,No,No,3,8,90,4,3.1-4,2012-07-25,0.2,Brazil,2012,7,Jul,Q3,3,Wednesday,4,2,18,1498.5
 7301064,il de uro,30,Rio de Janeiro,-43.219563,-22.966647,Brazilian,Brazilian Real(R$),No,No,No,No,3,14,90,4,4.1-5,2016-07-27,0.2,Brazil,2016,7,Jul,Q3,3,Wednesday,4,2,18,1498.5
 201044,ed obster,214,Dubai,55.278525,25.198291,"Seafood, American",Emirati Diram(AED),No,No,No,No,3,506,285,3,3.1-4,2018-07-07,0.27,United Arab Emirates,2018,7,Jul,Q3,6,Saturday,4,2,76.95,6406.0875
 201340,he heesecake actory,214,Dubai,55.27856994,25.19726756,"American, Desserts",Emirati Diram(AED),No,No,No,No,3,2424,270,5,4.1-5,2010-07-06,0.27,United Arab Emirates,2010,7,Jul,Q3,2,Tuesday,4,2,72.9,6068.925
@@ -9437,11 +9437,11 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 18352452,ucky at offee  itchen,94,Jakarta,106.8317481,-6.218932479,"Cafe, Western",Indonesian Rupiah(IDR),No,No,No,No,3,458,300000,4,4.1-5,2011-07-28,0.000067,Indonasia,2011,7,Jul,Q3,4,Thursday,4,2,20.1,1673.325
 7417455,alaga ampireun,94,Jakarta,106.8335532,-6.12685982,"Sunda, Indonesian",Indonesian Rupiah(IDR),No,No,No,No,3,1640,200000,5,4.1-5,2018-07-10,0.000067,Indonasia,2018,7,Jul,Q3,2,Tuesday,4,2,13.4,1115.55
 7100478,affe affare,148,Wellington City,174.780345,-41.296155,Cafe,NewZealand($),No,No,No,No,3,103,50,4,4.1-5,2016-07-13,0.6,New Zealand,2016,7,Jul,Q3,3,Wednesday,4,2,30,2497.5
-7601577,oseleaf Bar afe,215,Edinburgh,-3.173679,55.976644,"Scottish, Cafe",Pounds(å£),No,No,No,No,3,163,45,5,4.1-5,2010-07-12,1.24,United Kingdom,2010,7,Jul,Q3,1,Monday,4,2,55.8,4645.35
-7602340,he Boozy ow,215,Edinburgh,-3.199569,55.951974,"Burger, Grill",Pounds(å£),No,No,No,No,3,36,40,4,3.1-4,2012-07-24,1.24,United Kingdom,2012,7,Jul,Q3,2,Tuesday,4,2,49.6,4129.2
-6103255,oka,215,London,-0.135524,51.518935,"Japanese, Sushi",Pounds(å£),No,No,No,No,3,436,60,5,4.1-5,2016-07-27,1.24,United Kingdom,2016,7,Jul,Q3,3,Wednesday,4,2,74.4,6193.8
-6800577,amies talian,215,Manchester,-2.242833333,53.48083333,Italian,Pounds(å£),No,No,No,No,3,88,50,4,3.1-4,2012-07-08,1.24,United Kingdom,2012,7,Jul,Q3,7,Sunday,4,2,62,5161.5
-6801395,eacup,215,Manchester,-2.236507,53.484099,"British, Contemporary",Pounds(å£),No,No,No,No,3,98,45,4,4.1-5,2012-07-10,1.24,United Kingdom,2012,7,Jul,Q3,2,Tuesday,4,2,55.8,4645.35
+7601577,oseleaf Bar afe,215,Edinburgh,-3.173679,55.976644,"Scottish, Cafe",Pounds(¬å¬£),No,No,No,No,3,163,45,5,4.1-5,2010-07-12,1.24,United Kingdom,2010,7,Jul,Q3,1,Monday,4,2,55.8,4645.35
+7602340,he Boozy ow,215,Edinburgh,-3.199569,55.951974,"Burger, Grill",Pounds(¬å¬£),No,No,No,No,3,36,40,4,3.1-4,2012-07-24,1.24,United Kingdom,2012,7,Jul,Q3,2,Tuesday,4,2,49.6,4129.2
+6103255,oka,215,London,-0.135524,51.518935,"Japanese, Sushi",Pounds(¬å¬£),No,No,No,No,3,436,60,5,4.1-5,2016-07-27,1.24,United Kingdom,2016,7,Jul,Q3,3,Wednesday,4,2,74.4,6193.8
+6800577,amies talian,215,Manchester,-2.242833333,53.48083333,Italian,Pounds(¬å¬£),No,No,No,No,3,88,50,4,3.1-4,2012-07-08,1.24,United Kingdom,2012,7,Jul,Q3,7,Sunday,4,2,62,5161.5
+6801395,eacup,215,Manchester,-2.236507,53.484099,"British, Contemporary",Pounds(¬å¬£),No,No,No,No,3,98,45,4,4.1-5,2012-07-10,1.24,United Kingdom,2012,7,Jul,Q3,2,Tuesday,4,2,55.8,4645.35
 18289339,ulture lub  Bar e apas,189,Pretoria,28.255682,-25.775823,"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish",Rand(R),No,No,No,No,3,97,285,4,4.1-5,2014-07-24,0.051,South Africa,2014,7,Jul,Q3,4,Thursday,4,2,14.535,1210.03875
 6502852,ocial on ain,189,Sandton,28.023143,-26.052744,"Contemporary, Burger, European",Rand(R),No,No,No,No,3,504,250,4,3.1-4,2016-07-26,0.051,South Africa,2016,7,Jul,Q3,2,Tuesday,4,2,12.75,1061.4375
 6309903,ilantro ilex,162,Pasig City,121.057916,14.567689,"Filipino, Mexican",Botswana Pula(P),No,No,No,No,3,1070,800,5,4.1-5,2014-06-21,0.073,Phillipines,2014,6,Jun,Q2,6,Saturday,3,1,58.4,4861.8
@@ -9452,35 +9452,35 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 18391256,,94,Jakarta,106.9113346,-6.163947933,"Western, Asian, Cafe",Indonesian Rupiah(IDR),No,No,No,No,3,259,250000,4,4.1-5,2018-06-05,0.000067,Indonasia,2018,6,Jun,Q2,2,Tuesday,3,1,16.75,1394.4375
 7003855,rleans,148,Auckland,174.7695519,-36.8453314,American,NewZealand($),No,No,No,No,3,431,65,4,4.1-5,2012-06-13,0.6,New Zealand,2012,6,Jun,Q2,3,Wednesday,3,1,39,3246.75
 7100468,aranui afe,148,Wellington City,174.793257,-41.330428,"Cafe, Kiwi",NewZealand($),No,No,No,No,3,127,50,4,4.1-5,2014-06-27,0.6,New Zealand,2014,6,Jun,Q2,5,Friday,3,1,30,2497.5
-6901231,ipu ultan,215,Birmingham,-1.889039,52.450999,"Indian, Pakistani",Pounds(å£),No,No,No,No,3,63,45,4,3.1-4,2017-06-02,1.24,United Kingdom,2017,6,Jun,Q2,5,Friday,3,1,55.8,4645.35
-7600062,ard ock afe,215,Edinburgh,-3.196294444,55.95349444,American,Pounds(å£),No,No,No,No,3,154,40,4,3.1-4,2014-06-27,1.24,United Kingdom,2014,6,Jun,Q2,5,Friday,3,1,49.6,4129.2
+6901231,ipu ultan,215,Birmingham,-1.889039,52.450999,"Indian, Pakistani",Pounds(¬å¬£),No,No,No,No,3,63,45,4,3.1-4,2017-06-02,1.24,United Kingdom,2017,6,Jun,Q2,5,Friday,3,1,55.8,4645.35
+7600062,ard ock afe,215,Edinburgh,-3.196294444,55.95349444,American,Pounds(¬å¬£),No,No,No,No,3,154,40,4,3.1-4,2014-06-27,1.24,United Kingdom,2014,6,Jun,Q2,5,Friday,3,1,49.6,4129.2
 6201336,onderosa,166,Doha,51.5104884,25.2709036,Steak,Qatari Rial(QR),No,No,No,No,3,115,110,4,3.1-4,2014-06-08,0.27,Qatar,2014,6,Jun,Q2,7,Sunday,3,1,29.7,2472.525
 6403544,arryds,189,Cape Town,18.381997,-33.921453,"Cafe, Burger",Rand(R),No,No,No,No,3,319,230,5,4.1-5,2010-06-26,0.051,South Africa,2010,6,Jun,Q2,6,Saturday,3,1,11.73,976.5225
 18136493,ogshead,189,Pretoria,28.25626243,-25.7779816,"Grill, Burger",Rand(R),No,No,No,No,3,258,250,4,4.1-5,2012-06-27,0.051,South Africa,2012,6,Jun,Q2,3,Wednesday,3,1,12.75,1061.4375
 6000168,attena atay  ofras,208,Ankara,32.82121389,39.90597222,Kebab,Turkish Lira(TL),No,No,No,No,3,124,70,5,4.1-5,2018-06-01,0.05,Turkey,2018,6,Jun,Q2,5,Friday,3,1,3.5,291.375
 6000747,he Bigos,208,Ankara,32.85791667,39.91668611,Cafe,Turkish Lira(TL),No,No,No,No,3,123,80,4,3.1-4,2015-06-27,0.05,Turkey,2015,6,Jun,Q2,6,Saturday,3,1,4,333
 6004089,verolu,208,Ankara,32.84274167,39.92253611,"Kebab, Desserts, Turkish Pizza",Turkish Lira(TL),No,No,No,No,3,131,70,4,4.1-5,2014-06-13,0.05,Turkey,2014,6,Jun,Q2,5,Friday,3,1,3.5,291.375
-5905215,mirgan ti,208,€¡stanbul,29.05662037,41.10496881,"Restaurant Cafe, Turkish, Desserts",Turkish Lira(TL),No,No,No,No,3,877,75,4,4.1-5,2011-06-02,0.05,Turkey,2011,6,Jun,Q2,4,Thursday,3,1,3.75,312.1875
+5905215,mirgan ti,208,√õ√Åstanbul,29.05662037,41.10496881,"Restaurant Cafe, Turkish, Desserts",Turkish Lira(TL),No,No,No,No,3,877,75,4,4.1-5,2011-06-02,0.05,Turkey,2011,6,Jun,Q2,4,Thursday,3,1,3.75,312.1875
 18185059,afe Arabelle,162,Santa Rosa,121.05704,14.237082,"Cafe, American, Italian, Filipino",Botswana Pula(P),No,No,No,No,3,29,800,4,3.1-4,2010-05-18,0.073,Phillipines,2010,5,May,Q2,2,Tuesday,2,1,58.4,4861.8
 5602055,ajasthan Al alaki,214,Sharjah,55.45195531,25.2887722,"Indian, North Indian",Emirati Diram(AED),No,No,No,No,3,459,60,5,4.1-5,2015-05-07,0.27,United Arab Emirates,2015,5,May,Q2,4,Thursday,2,1,16.2,1348.65
 7402935,kye,94,Jakarta,106.821999,-6.196778,"Italian, Continental",Indonesian Rupiah(IDR),No,No,No,No,3,1498,800000,4,4.1-5,2014-05-02,0.000067,Indonasia,2014,5,May,Q2,5,Friday,2,1,53.6,4462.2
 7005582,ittle ister afe,148,Auckland,174.635633,-36.859341,Cafe,NewZealand($),No,No,No,No,3,213,45,4,4.1-5,2018-05-24,0.6,New Zealand,2018,5,May,Q2,4,Thursday,2,1,27,2247.75
 7001660,rasers,148,Auckland,174.762234,-36.881213,"Cafe, European",NewZealand($),No,No,No,No,3,381,60,4,3.1-4,2013-05-26,0.6,New Zealand,2013,5,May,Q2,7,Sunday,2,1,36,2997
 7100151,nigma afe,148,Wellington City,174.7791667,-41.2925,"Cafe, Kiwi, Ice Cream, Desserts",NewZealand($),No,No,No,No,3,94,50,4,3.1-4,2018-05-16,0.6,New Zealand,2018,5,May,Q2,3,Wednesday,2,1,30,2497.5
-7600902,imis Bakehouse,215,Edinburgh,-3.171327778,55.97509722,"Cafe, Bakery, Desserts",Pounds(å£),No,No,No,No,3,130,35,5,4.1-5,2016-05-20,1.24,United Kingdom,2016,5,May,Q2,5,Friday,2,1,43.4,3613.05
-6103922,ishoom,215,London,-0.076580556,51.52453611,"Indian, Cafe, Curry",Pounds(å£),No,No,No,No,3,305,55,4,4.1-5,2014-05-01,1.24,United Kingdom,2014,5,May,Q2,4,Thursday,2,1,68.2,5677.65
-6102615,he Breakfast lub,215,London,-0.135463889,51.51481111,"American, Burger",Pounds(å£),No,No,No,No,3,313,40,4,4.1-5,2014-05-23,1.24,United Kingdom,2014,5,May,Q2,5,Friday,2,1,49.6,4129.2
+7600902,imis Bakehouse,215,Edinburgh,-3.171327778,55.97509722,"Cafe, Bakery, Desserts",Pounds(¬å¬£),No,No,No,No,3,130,35,5,4.1-5,2016-05-20,1.24,United Kingdom,2016,5,May,Q2,5,Friday,2,1,43.4,3613.05
+6103922,ishoom,215,London,-0.076580556,51.52453611,"Indian, Cafe, Curry",Pounds(¬å¬£),No,No,No,No,3,305,55,4,4.1-5,2014-05-01,1.24,United Kingdom,2014,5,May,Q2,4,Thursday,2,1,68.2,5677.65
+6102615,he Breakfast lub,215,London,-0.135463889,51.51481111,"American, Burger",Pounds(¬å¬£),No,No,No,No,3,313,40,4,4.1-5,2014-05-23,1.24,United Kingdom,2014,5,May,Q2,5,Friday,2,1,49.6,4129.2
 6403291,errys Burger Bar,189,Cape Town,18.410769,-33.929022,"Burger, American",Rand(R),No,No,No,No,3,281,250,4,4.1-5,2012-05-15,0.051,South Africa,2012,5,May,Q2,2,Tuesday,2,1,12.75,1061.4375
 6400235,ibsons ourmet Burgers  ibs,189,Cape Town,18.42030041,-33.9042665,"Burger, American, Grill",Rand(R),No,No,No,No,3,298,270,4,4.1-5,2015-05-05,0.051,South Africa,2015,5,May,Q2,2,Tuesday,2,1,13.77,1146.3525
 5800891,he addington,191,Colombo,79.86849167,6.913291667,"Cafe, Italian",Sri Lankan Rupee(LKR),No,No,No,No,3,83,2000,4,3.1-4,2017-05-20,0.0034,Sri lanka,2017,5,May,Q2,6,Saturday,2,1,6.8,566.1
 6000447,asaba ebaps,208,Ankara,32.8203,39.91069722,"Kebab, Turkish Pizza",Turkish Lira(TL),No,No,No,No,3,212,100,4,4.1-5,2016-05-07,0.05,Turkey,2016,5,May,Q2,6,Saturday,2,1,5,416.25
 6002025,asaba,208,Ankara,32.85986667,39.91914444,"Kebab, Turkish Pizza",Turkish Lira(TL),No,No,No,No,3,103,100,4,4.1-5,2013-05-15,0.05,Turkey,2013,5,May,Q2,3,Wednesday,2,1,5,416.25
-6601361,Buena arne,30,BrasÌ_lia,-48.01909167,-15.839775,"Bar Food, Brazilian",Brazilian Real(R$),No,No,No,No,3,9,60,4,3.1-4,2015-04-14,0.2,Brazil,2015,4,Apr,Q2,2,Tuesday,1,1,12,999
+6601361,Buena arne,30,Bras√≠_lia,-48.01909167,-15.839775,"Bar Food, Brazilian",Brazilian Real(R$),No,No,No,No,3,9,60,4,3.1-4,2015-04-14,0.2,Brazil,2015,4,Apr,Q2,2,Tuesday,1,1,12,999
 7302859,Aconchego arioca,30,Rio de Janeiro,-43.21551111,-22.91370833,"Brazilian, Bar Food",Brazilian Real(R$),No,No,No,No,3,24,85,5,4.1-5,2010-04-18,0.2,Brazil,2010,4,Apr,Q2,7,Sunday,1,1,17,1415.25
 18400530,oahs Barn offeenery,94,Bandung,107.6127895,-6.887057501,"Cafe, Coffee and Tea, Western",Indonesian Rupiah(IDR),No,No,No,No,3,22,150000,4,4.1-5,2011-04-06,0.000067,Indonasia,2011,4,Apr,Q2,3,Wednesday,1,1,10.05,836.6625
 7422751,nion eli,94,Jakarta,106.8197488,-6.197150016,"Desserts, Bakery, Western",Indonesian Rupiah(IDR),No,No,No,No,3,903,200000,5,4.1-5,2018-04-27,0.000067,Indonasia,2018,4,Apr,Q2,5,Friday,1,1,13.4,1115.55
 7101483,Burger iquor,148,Wellington City,174.774546,-41.289798,American,NewZealand($),No,No,No,No,3,116,55,4,4.1-5,2017-04-23,0.6,New Zealand,2017,4,Apr,Q2,7,Sunday,1,1,33,2747.25
-6800235,he rill n he Alley,215,Manchester,-2.247333333,53.48083333,"Steak, Seafood, Grill",Pounds(å£),No,No,No,No,3,704,55,4,4.1-5,2018-04-14,1.24,United Kingdom,2018,4,Apr,Q2,6,Saturday,1,1,68.2,5677.65
+6800235,he rill n he Alley,215,Manchester,-2.247333333,53.48083333,"Steak, Seafood, Grill",Pounds(¬å¬£),No,No,No,No,3,704,55,4,4.1-5,2018-04-14,1.24,United Kingdom,2018,4,Apr,Q2,6,Saturday,1,1,68.2,5677.65
 6200110,Aalishan,166,Doha,51.5194969,25.2684026,"North Indian, Chinese, Turkish",Qatari Rial(QR),No,No,No,No,3,263,100,4,3.1-4,2016-04-06,0.27,Qatar,2016,4,Apr,Q2,3,Wednesday,1,1,27,2247.75
 6401198,rigin offee oasting,189,Cape Town,18.41766667,-33.91733333,"Cafe, Bakery, Tea, Vegetarian",Rand(R),No,No,No,No,3,185,200,4,3.1-4,2017-04-02,0.051,South Africa,2017,4,Apr,Q2,7,Sunday,1,1,10.2,849.15
 75683,23 n azelwood,189,Pretoria,28.257074,-25.775722,"Street Food, Continental, Burger, Grill",Rand(R),No,No,No,No,3,135,250,4,3.1-4,2016-04-01,0.051,South Africa,2016,4,Apr,Q2,5,Friday,1,1,12.75,1061.4375
@@ -9490,43 +9490,43 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 209703,in ai ung,214,Dubai,55.19854523,25.11851301,"Asian, Chinese",Emirati Diram(AED),No,No,No,No,3,661,160,4,4.1-5,2014-03-08,0.27,United Arab Emirates,2014,3,Mar,Q1,6,Saturday,12,4,43.2,3596.4
 7400818,enbu,94,Jakarta,106.8425,-6.224333333,"Japanese, Sushi, Ramen",Indonesian Rupiah(IDR),No,No,No,No,3,841,200000,4,4.1-5,2015-03-15,0.000067,Indonasia,2015,3,Mar,Q1,7,Sunday,12,4,13.4,1115.55
 18408381,ish treat,94,Jakarta,106.8564133,-6.232815715,"Seafood, Western",Indonesian Rupiah(IDR),No,No,No,No,3,331,100000,4,3.1-4,2018-03-24,0.000067,Indonasia,2018,3,Mar,Q1,6,Saturday,12,4,6.7,557.775
-6900669,iesta del Asado,215,Birmingham,-1.938759,52.472197,"Latin American, Italian",Pounds(å£),No,No,No,No,3,40,50,4,3.1-4,2013-03-06,1.24,United Kingdom,2013,3,Mar,Q1,3,Wednesday,12,4,62,5161.5
-7600118,he anging Bat,215,Edinburgh,-3.205522222,55.94562222,American,Pounds(å£),No,No,No,No,3,31,35,4,3.1-4,2017-03-05,1.24,United Kingdom,2017,3,Mar,Q1,7,Sunday,12,4,43.4,3613.05
+6900669,iesta del Asado,215,Birmingham,-1.938759,52.472197,"Latin American, Italian",Pounds(¬å¬£),No,No,No,No,3,40,50,4,3.1-4,2013-03-06,1.24,United Kingdom,2013,3,Mar,Q1,3,Wednesday,12,4,62,5161.5
+7600118,he anging Bat,215,Edinburgh,-3.205522222,55.94562222,American,Pounds(¬å¬£),No,No,No,No,3,31,35,4,3.1-4,2017-03-05,1.24,United Kingdom,2017,3,Mar,Q1,7,Sunday,12,4,43.4,3613.05
 6502134,he hippet,189,Randburg,27.991791,-26.14026,Cafe,Rand(R),No,No,No,No,3,618,200,4,4.1-5,2017-03-24,0.051,South Africa,2017,3,Mar,Q1,5,Friday,12,4,10.2,849.15
 5801321,afe Beverly,191,Colombo,79.90294117,6.906814811,"Continental, American",Sri Lankan Rupee(LKR),No,No,No,No,3,58,2000,4,4.1-5,2011-03-09,0.0034,Sri lanka,2011,3,Mar,Q1,3,Wednesday,12,4,6.8,566.1
 6000549,ehur avac ecep sta,208,Ankara,32.84618889,39.88487222,Kebab,Turkish Lira(TL),No,No,No,No,3,231,100,4,4.1-5,2014-03-13,0.05,Turkey,2014,3,Mar,Q1,4,Thursday,12,4,5,416.25
 6000871,ukuraa ofras,208,Ankara,32.81883333,39.91666667,"Kebab, Izgara",Turkish Lira(TL),No,No,No,No,3,296,60,4,4.1-5,2011-03-06,0.05,Turkey,2011,3,Mar,Q1,7,Sunday,12,4,3,249.75
-5915730,aml urme,208,€¡stanbul,28.97739161,41.02279314,Turkish,Turkish Lira(TL),No,No,No,No,3,788,80,4,4.1-5,2013-03-05,0.05,Turkey,2013,3,Mar,Q1,2,Tuesday,12,4,4,333
-6714340,ed teak  Burger,30,SÌ£o Paulo,-46.683888,-23.585324,"Brazilian, Grill",Brazilian Real(R$),No,No,No,No,3,5,75,4,3.1-4,2011-02-02,0.2,Brazil,2011,2,Feb,Q1,3,Wednesday,11,4,15,1248.75
+5915730,aml urme,208,√õ√Åstanbul,28.97739161,41.02279314,Turkish,Turkish Lira(TL),No,No,No,No,3,788,80,4,4.1-5,2013-03-05,0.05,Turkey,2013,3,Mar,Q1,2,Tuesday,12,4,4,333
+6714340,ed teak  Burger,30,S√≠¬£o Paulo,-46.683888,-23.585324,"Brazilian, Grill",Brazilian Real(R$),No,No,No,No,3,5,75,4,3.1-4,2011-02-02,0.2,Brazil,2011,2,Feb,Q1,3,Wednesday,11,4,15,1248.75
 5600642,atis estaurant,214,Sharjah,55.37637066,25.32578908,"Indian, North Indian, Chinese",Emirati Diram(AED),No,No,No,No,3,316,65,4,4.1-5,2013-02-21,0.27,United Arab Emirates,2013,2,Feb,Q1,4,Thursday,11,4,17.55,1461.0375
 7100087,ittle enang,148,Wellington City,174.777091,-41.291901,Malaysian,NewZealand($),No,No,No,No,3,161,50,4,4.1-5,2018-02-04,0.6,New Zealand,2018,2,Feb,Q1,7,Sunday,11,4,30,2497.5
-6901081,an arlo,215,Birmingham,-1.899133,52.480364,Italian,Pounds(å£),No,No,No,No,3,148,45,4,4.1-5,2014-02-12,1.24,United Kingdom,2014,2,Feb,Q1,3,Wednesday,11,4,55.8,4645.35
-7602204,l artel,215,Edinburgh,-3.199521,55.95404,Mexican,Pounds(å£),No,No,No,No,3,31,30,4,3.1-4,2017-02-19,1.24,United Kingdom,2017,2,Feb,Q1,7,Sunday,11,4,37.2,3096.9
-7600471,he lephant ouse,215,Edinburgh,-3.191780556,55.94755556,Cafe,Pounds(å£),No,No,No,No,3,81,30,4,3.1-4,2018-02-21,1.24,United Kingdom,2018,2,Feb,Q1,3,Wednesday,11,4,37.2,3096.9
+6901081,an arlo,215,Birmingham,-1.899133,52.480364,Italian,Pounds(¬å¬£),No,No,No,No,3,148,45,4,4.1-5,2014-02-12,1.24,United Kingdom,2014,2,Feb,Q1,3,Wednesday,11,4,55.8,4645.35
+7602204,l artel,215,Edinburgh,-3.199521,55.95404,Mexican,Pounds(¬å¬£),No,No,No,No,3,31,30,4,3.1-4,2017-02-19,1.24,United Kingdom,2017,2,Feb,Q1,7,Sunday,11,4,37.2,3096.9
+7600471,he lephant ouse,215,Edinburgh,-3.191780556,55.94755556,Cafe,Pounds(¬å¬£),No,No,No,No,3,81,30,4,3.1-4,2018-02-21,1.24,United Kingdom,2018,2,Feb,Q1,3,Wednesday,11,4,37.2,3096.9
 6402177,alushi,189,Cape Town,18.462423,-33.978602,"Japanese, Sushi, Asian",Rand(R),No,No,No,No,3,239,250,4,3.1-4,2010-02-01,0.051,South Africa,2010,2,Feb,Q1,1,Monday,11,4,12.75,1061.4375
 5800567,A ounge,191,Colombo,79.87511359,6.91280628,"Italian, Cafe, Desserts",Sri Lankan Rupee(LKR),No,No,No,No,3,157,2500,4,3.1-4,2013-02-28,0.0034,Sri lanka,2013,2,Feb,Q1,4,Thursday,11,4,8.5,707.625
 18182702,onnas asta  izzeria,162,Santa Rosa,121.0565874,14.23767897,"Italian, Pizza",Botswana Pula(P),No,No,No,No,3,72,850,4,3.1-4,2011-01-03,0.073,Phillipines,2011,1,Jan,Q1,1,Monday,10,4,62.05,5165.6625
 7300521,Balada ix,30,Rio de Janeiro,-43.211425,-22.98520833,"Brazilian, Healthy Food, Juices, Pizza",Brazilian Real(R$),No,No,No,No,3,21,90,5,4.1-5,2017-01-09,0.2,Brazil,2017,1,Jan,Q1,1,Monday,10,4,18,1498.5
-6711179,opala ari,30,SÌ£o Paulo,-46.65866667,-23.55616667,Indian,Brazilian Real(R$),No,No,No,No,3,5,70,3,3.1-4,2018-01-26,0.2,Brazil,2018,1,Jan,Q1,5,Friday,10,4,14,1165.5
+6711179,opala ari,30,S√≠¬£o Paulo,-46.65866667,-23.55616667,Indian,Brazilian Real(R$),No,No,No,No,3,5,70,3,3.1-4,2018-01-26,0.2,Brazil,2018,1,Jan,Q1,5,Friday,10,4,14,1165.5
 7006871,Big ish atery,148,Auckland,174.810305,-36.905409,"Asian, Sushi, Seafood",NewZealand($),No,No,No,No,3,166,55,4,4.1-5,2010-01-16,0.6,New Zealand,2010,1,Jan,Q1,6,Saturday,10,4,33,2747.25
 6403499,Active ushi,189,Cape Town,18.417566,-33.917258,Sushi,Rand(R),No,No,No,No,3,127,250,4,3.1-4,2016-01-13,0.051,South Africa,2016,1,Jan,Q1,3,Wednesday,10,4,12.75,1061.4375
 6502883,erron,189,Sandton,28.04833811,-26.13493464,Mexican,Rand(R),No,No,No,No,3,581,250,4,4.1-5,2018-01-03,0.051,South Africa,2018,1,Jan,Q1,3,Wednesday,10,4,12.75,1061.4375
 5800755,palis,191,Colombo,79.86472741,6.912529358,Sri Lankan,Sri Lankan Rupee(LKR),No,No,No,No,3,114,2500,4,3.1-4,2011-01-18,0.0034,Sri lanka,2011,1,Jan,Q1,2,Tuesday,10,4,8.5,707.625
 5800156,ueens afe,191,Colombo,79.85581944,6.899175,"American, Chinese, North Indian",Sri Lankan Rupee(LKR),No,No,No,No,3,93,2000,2,2.1-3,2016-01-16,0.0034,Sri lanka,2016,1,Jan,Q1,6,Saturday,10,4,6.8,566.1
-6701419,ivino ogo,30,SÌ£o Paulo,-46.63716667,-23.5995,"Brazilian, Mineira",Brazilian Real(R$),No,No,No,No,3,2,65,1,0-1,2015-12-18,0.2,Brazil,2015,12,Dec,Q4,5,Friday,9,3,13,1082.25
+6701419,ivino ogo,30,S√≠¬£o Paulo,-46.63716667,-23.5995,"Brazilian, Mineira",Brazilian Real(R$),No,No,No,No,3,2,65,1,0-1,2015-12-18,0.2,Brazil,2015,12,Dec,Q4,5,Friday,9,3,13,1082.25
 7422633,alaga ampireun,94,Jakarta,106.7285083,-6.168466667,"Sunda, Indonesian",Indonesian Rupiah(IDR),No,No,No,No,3,1662,200000,5,4.1-5,2010-12-18,0.000067,Indonasia,2010,12,Dec,Q4,6,Saturday,9,3,13.4,1115.55
 7405789,oodz ouse,94,Jakarta,106.801782,-6.278012,"Cafe, Italian, Coffee and Tea, Western, Indonesian",Indonesian Rupiah(IDR),No,No,No,No,3,1476,165000,5,4.1-5,2011-12-17,0.000067,Indonasia,2011,12,Dec,Q4,6,Saturday,9,3,11.055,920.32875
 18409146,ish treat,94,Jakarta,0,0,"Seafood, Western",Indonesian Rupiah(IDR),No,No,No,No,3,152,100000,3,3.1-4,2015-12-07,0.000067,Indonasia,2015,12,Dec,Q4,1,Monday,9,3,6.7,557.775
 7006421,appaich,148,Auckland,174.7634761,-36.85158619,Malaysian,NewZealand($),No,No,No,No,3,414,60,4,3.1-4,2012-12-15,0.6,New Zealand,2012,12,Dec,Q4,6,Saturday,9,3,36,2997
 7101378,ive Boroughs,148,Wellington City,174.785051,-41.294234,American,NewZealand($),No,No,No,No,3,114,60,4,4.1-5,2015-12-06,0.6,New Zealand,2015,12,Dec,Q4,7,Sunday,9,3,36,2997
-6900724,Bodega,215,Birmingham,-1.900375,52.47969,Latin American,Pounds(å£),No,No,No,No,3,100,40,5,4.1-5,2015-12-15,1.24,United Kingdom,2015,12,Dec,Q4,2,Tuesday,9,3,49.6,4129.2
-6801374,olita,215,Manchester,-2.237333333,53.4835,"American, Burger, Grill",Pounds(å£),No,No,No,No,3,162,50,5,4.1-5,2015-12-10,1.24,United Kingdom,2015,12,Dec,Q4,4,Thursday,9,3,62,5161.5
+6900724,Bodega,215,Birmingham,-1.900375,52.47969,Latin American,Pounds(¬å¬£),No,No,No,No,3,100,40,5,4.1-5,2015-12-15,1.24,United Kingdom,2015,12,Dec,Q4,2,Tuesday,9,3,49.6,4129.2
+6801374,olita,215,Manchester,-2.237333333,53.4835,"American, Burger, Grill",Pounds(¬å¬£),No,No,No,No,3,162,50,5,4.1-5,2015-12-10,1.24,United Kingdom,2015,12,Dec,Q4,4,Thursday,9,3,62,5161.5
 6201976,ndian offee ouse,166,Doha,51.5210744,25.276109,Indian,Qatari Rial(QR),No,No,No,No,3,350,80,3,3.1-4,2012-12-17,0.27,Qatar,2012,12,Dec,Q4,1,Monday,9,3,21.6,1798.2
 17957911,unjab estaurant,166,Doha,51.52302034,25.28246661,Pakistani,Qatari Rial(QR),No,No,No,No,3,83,80,4,3.1-4,2013-12-19,0.27,Qatar,2013,12,Dec,Q4,4,Thursday,9,3,21.6,1798.2
 75609,apital raft Beer Academy,189,Pretoria,28.25643333,-25.76973333,"Street Food, Burger, American, Finger Food, German",Rand(R),No,No,No,No,3,301,200,4,4.1-5,2011-12-18,0.051,South Africa,2011,12,Dec,Q4,7,Sunday,9,3,10.2,849.15
 75104,arrots,189,Pretoria,28.275316,-25.783539,"Contemporary, Sushi, Grill, Italian, Steak",Rand(R),No,No,No,No,3,111,200,3,3.1-4,2017-12-27,0.051,South Africa,2017,12,Dec,Q4,3,Wednesday,9,3,10.2,849.15
 6003668,imboo afe,208,Ankara,32.776255,39.908957,Cafe,Turkish Lira(TL),No,No,No,No,3,79,70,4,4.1-5,2016-12-15,0.05,Turkey,2016,12,Dec,Q4,4,Thursday,9,3,3.5,291.375
-5926979,eman ltr,208,€¡stanbul,29.02280476,40.98970497,Restaurant Cafe,Turkish Lira(TL),No,No,No,No,3,506,80,4,3.1-4,2017-12-14,0.05,Turkey,2017,12,Dec,Q4,4,Thursday,9,3,4,333
+5926979,eman ltr,208,√õ√Åstanbul,29.02280476,40.98970497,Restaurant Cafe,Turkish Lira(TL),No,No,No,No,3,506,80,4,3.1-4,2017-12-14,0.05,Turkey,2017,12,Dec,Q4,4,Thursday,9,3,4,333
 18189371,in ai ung,162,Mandaluyong City,121.056314,14.583764,Chinese,Botswana Pula(P),No,No,No,No,3,336,1000,4,4.1-5,2010-11-01,0.073,Phillipines,2010,11,Nov,Q4,1,Monday,8,3,73,6077.25
 7300596,ervantes,30,Rio de Janeiro,-43.17583333,-22.96216667,"Beverages, Bar Food, Fast Food",Brazilian Real(R$),No,No,No,No,3,29,90,4,4.1-5,2018-11-28,0.2,Brazil,2018,11,Nov,Q4,3,Wednesday,8,3,18,1498.5
 7421967,3 ise onkeys,94,Jakarta,106.8134001,-6.235241091,Japanese,Indonesian Rupiah(IDR),No,No,No,No,3,395,450000,4,4.1-5,2014-11-17,0.000067,Indonasia,2014,11,Nov,Q4,1,Monday,8,3,30.15,2509.9875
@@ -9534,8 +9534,8 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 7001086,ilse,148,Auckland,174.7686903,-36.84418841,Desserts,NewZealand($),No,No,No,No,3,754,50,5,4.1-5,2010-11-22,0.6,New Zealand,2010,11,Nov,Q4,1,Monday,8,3,30,2497.5
 7003663,ederal elicatessen,148,Auckland,174.7622201,-36.84876968,"Cafe, American",NewZealand($),No,No,No,No,3,696,60,5,4.1-5,2018-11-14,0.6,New Zealand,2018,11,Nov,Q4,3,Wednesday,8,3,36,2997
 18450836,inona orever,148,Auckland,174.779441,0,Cafe,NewZealand($),No,No,No,No,3,31,50,4,3.1-4,2018-11-18,0.6,New Zealand,2018,11,Nov,Q4,7,Sunday,8,3,30,2497.5
-6900050,amies talian,215,Birmingham,-1.894286,52.477633,Italian,Pounds(å£),No,No,No,No,3,53,50,4,3.1-4,2010-11-10,1.24,United Kingdom,2010,11,Nov,Q4,3,Wednesday,8,3,62,5161.5
-7602224,iverinos,215,Edinburgh,-3.187962,55.949637,"Pizza, Italian",Pounds(å£),No,No,No,No,3,27,35,4,3.1-4,2018-11-14,1.24,United Kingdom,2018,11,Nov,Q4,3,Wednesday,8,3,43.4,3613.05
+6900050,amies talian,215,Birmingham,-1.894286,52.477633,Italian,Pounds(¬å¬£),No,No,No,No,3,53,50,4,3.1-4,2010-11-10,1.24,United Kingdom,2010,11,Nov,Q4,3,Wednesday,8,3,62,5161.5
+7602224,iverinos,215,Edinburgh,-3.187962,55.949637,"Pizza, Italian",Pounds(¬å¬£),No,No,No,No,3,27,35,4,3.1-4,2018-11-14,1.24,United Kingdom,2018,11,Nov,Q4,3,Wednesday,8,3,43.4,3613.05
 18395463,he Butchers ife,189,Cape Town,18.51440571,-33.96466043,"Pizza, Grill",Rand(R),No,No,No,No,3,22,294,4,3.1-4,2013-11-24,0.051,South Africa,2013,11,Nov,Q4,7,Sunday,8,3,14.994,1248.2505
 5800316,ricket lub afe,191,Colombo,0,0,"Continental, American, Seafood",Sri Lankan Rupee(LKR),No,No,No,No,3,171,3000,4,4.1-5,2017-11-14,0.0034,Sri lanka,2017,11,Nov,Q4,2,Tuesday,8,3,10.2,849.15
 5800433,he izzle,191,Colombo,79.85292778,6.904580556,"American, Fast Food, Steak, Beverages",Sri Lankan Rupee(LKR),No,No,No,No,3,286,3000,4,4.1-5,2016-11-04,0.0034,Sri lanka,2016,11,Nov,Q4,5,Friday,8,3,10.2,849.15
@@ -9547,6 +9547,6 @@ RestaurantID,Restaurant_Name,CountryCode,City,Longitude,Latitude,Cuisines,Curren
 7005979,hinoiserie,148,Auckland,174.7269883,-36.89398977,"Taiwanese, Street Food",NewZealand($),No,No,No,No,3,223,50,4,4.1-5,2010-10-08,0.6,New Zealand,2010,10,Oct,Q4,5,Friday,7,3,30,2497.5
 7101042,he angar,148,Wellington City,174.773933,-41.290801,Cafe,NewZealand($),No,No,No,No,3,171,50,5,4.1-5,2011-10-03,0.6,New Zealand,2011,10,Oct,Q4,1,Monday,7,3,30,2497.5
 7100502,idels,148,Wellington City,174.774134,-41.29597,"Cafe, European, Mexican",NewZealand($),No,No,No,No,3,242,50,4,4.1-5,2013-10-01,0.6,New Zealand,2013,10,Oct,Q4,2,Tuesday,7,3,30,2497.5
-6900992,ughal  Azam,215,Birmingham,-1.858529,52.443963,"Pakistani, Indian",Pounds(å£),No,No,No,No,3,32,45,4,3.1-4,2017-10-28,1.24,United Kingdom,2017,10,Oct,Q4,6,Saturday,7,3,55.8,4645.35
+6900992,ughal  Azam,215,Birmingham,-1.858529,52.443963,"Pakistani, Indian",Pounds(¬å¬£),No,No,No,No,3,32,45,4,3.1-4,2017-10-28,1.24,United Kingdom,2017,10,Oct,Q4,6,Saturday,7,3,55.8,4645.35
 5800590,he ommons,191,Colombo,79.8581047,6.908536272,"Cafe, Sri Lankan, Continental, American",Sri Lankan Rupee(LKR),No,No,No,No,3,209,2500,4,3.1-4,2015-10-23,0.0034,Sri lanka,2015,10,Oct,Q4,5,Friday,7,3,8.5,707.625
 6001980,imboo afe,208,Ankara,32.80924722,39.91320556,Cafe,Turkish Lira(TL),No,No,No,No,3,134,70,4,4.1-5,2015-10-04,0.05,Turkey,2015,10,Oct,Q4,7,Sunday,7,3,3.5,291.375
