@@ -1,4 +1,4 @@
-# Zomato_Restaurant_Analysis_Excel_Dashboard
+# Zomato_Restaurant_Analysis_Excel_Project
 
 ### ✅️Overview:
 Zomato, a global restaurant aggregation and meal delivery service, faced the challenge of harnessing its vast data to make data-driven decisions and enhance the dining experience for its users. In response, we embarked on the "Interactive Zomato Data Analysis in Power BI" project, aimed at providing comprehensive insights into the restaurant industry.
