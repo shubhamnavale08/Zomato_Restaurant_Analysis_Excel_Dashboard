@@ -16,7 +16,7 @@ This dataset provides comprehensive information on Zomato Restaurants across 15 
 
   + **Data Modelling** :Employed data modeling using Power Pivot, to establish relationships between three tables.
 
-  + **Data Visualization** : Created a interactive dashboard with six Key Performance Indicators (KPIs), four slicers, and six charts using Pivot Tables.
+  + **Data Visualization** : Created a interactive dashboard with six Key Performance Indicators (KPIs), four slicers, and charts using Pivot Tables.
 
 
 ### 📌Key Insights from the Dashboard
